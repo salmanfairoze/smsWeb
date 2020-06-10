@@ -1,0 +1,44 @@
+sno,Name,active,Cured,deaths,total_confirmed
+1,andaman and nicobar islands,0,33,0,33
+2,andhra pradesh,2191,2802,77,5070
+3,arunachal pradesh,56,1,0,57
+4,assam,1848,1085,4,2937
+5,bihar,2563,2864,32,5459
+6,chandigarh,32,286,5,323
+7,chhattisgarh,848,386,6,1240
+8,dadar nagar haveli,20,2,0,22
+9,delhi,18543,11861,905,31309
+10,goa,292,67,0,359
+11,gujarat,5336,14365,1313,21014
+12,haryana,3030,2134,45,5209
+13,himachal pradesh,191,249,5,445
+14,jammu and kashmir,2792,1506,48,4346
+15,jharkhand,844,559,8,1411
+16,karnataka,3251,2604,66,5921
+17,kerala,1232,848,16,2096
+18,ladakh,55,52,1,108
+19,madhya pradesh,2700,6729,420,9849
+20,maharashtra,44860,42638,3289,90787
+21,manipur,243,61,0,304
+22,meghalaya,29,13,1,43
+23,mizoram,87,1,0,88
+24,nagaland,117,10,0,127
+25,odisha,998,2133,9,3140
+26,puducherry,75,52,0,127
+27,punjab,497,2167,55,2719
+28,rajasthan,2662,8328,255,11245
+29,sikkim,13,0,0,13
+30,tamil nadu,16282,18325,307,34914
+31,telengana,1963,1809,148,3920
+32,tripura,671,192,1,864
+33,uttarakhand,769,755,13,1537
+34,uttar pradesh,4365,6669,301,11335
+35,west bengal,4950,3620,415,8985
+,cases being reassigned to states,9227,,,9227
+,total#,133632,"
+135206
+","
+7745
+","
+276583
+"
