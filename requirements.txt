@@ -1,0 +1,10 @@
+flask
+json
+requests
+wolframalpha
+Flask-MySQL
+beautifulsoup4
+urllib
+pandas
+html2text
+secure-smtplib

@@ -6,7 +6,7 @@ help](https://support.google.com/websearch/answer/181196?hl=en-IN)
 Accessibility feedback
 
 Please click
-[here](/search?q=Worldssmallestcountry&client=ubuntu&hs=lZ1&channel=fs&gbv=1&sei=9LjgXtqsJaCx5OUPuua6qAY)
+[here](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&gbv=1&sei=iRnhXqfPMePWz7sP8tqpmAQ)
 if you are not redirected within a few seconds.
 
 [](https://www.google.co.in/intl/en/about/products?tab=wh)
@@ -14,7 +14,7 @@ if you are not redirected within a few seconds.
 [Sign
 in](https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fclient%3Dubuntu%26channel%3Dfs%26q%3DWorldssmallestcountry%26ie%3Dutf-8%26oe%3Dutf-8)
 
-[](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQPAgH
+[](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQPAgH
 "Go to Google Home")
 
 * * Remove
@@ -25,61 +25,175 @@ Report inappropriate predictions
 
 All
 
-[Maps](https://maps.google.com/maps?client=ubuntu&channel=fs&oe=utf-8&q=World%27s+Smallest+Country&um=1&ie=UTF-8&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoAXoECA8QAw)
+[Maps](https://maps.google.com/maps?client=ubuntu&channel=fs&q=Worldssmallestcountry&oe=utf-8&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoAXoECAsQAw)
 
-[Images](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoAnoECA8QBA)
+[Videos](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoAnoECAsQBA)
 
-[News](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&source=lnms&tbm=nws&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoA3oECA8QBQ)
+[Images](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoA3oECAsQBQ)
 
-[Books](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&source=lnms&tbm=bks&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoBHoECA8QBg)
+[News](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoBHoECAsQBg)
 
 More
 
-[Videos](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&source=lnms&tbm=vid&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoAHoECA8QCA)[Shopping](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&source=lnms&tbm=shop&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoAXoECA8QCQ)[Flights](https://www.google.com/flights?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&source=lnms&tbm=flm&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoAnoECA8QCg)[Finance](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&source=lnms&tbm=fin&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_AUoA3oECA8QCw)
+[Shopping](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoAHoECAsQCA)[Books](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&source=lnms&tbm=bks&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoAXoECAsQCQ)[Flights](https://www.google.com/flights?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&source=lnms&tbm=flm&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoAnoECAsQCg)[Finance](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&source=lnms&tbm=fin&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ_AUoA3oECAsQCw)
 
 [Settings](/preferences)
 
 [Search
 settings](/preferences?hl=en&prev=https://www.google.com/search?client%3Dubuntu%26channel%3Dfs%26q%3DWorldssmallestcountry%26ie%3Dutf-8%26oe%3Dutf-8)[Languages](/preferences?hl=en&prev=https://www.google.com/search?client%3Dubuntu%26channel%3Dfs%26q%3DWorldssmallestcountry%26ie%3Dutf-8%26oe%3Dutf-8#languages)[Turn
-on
-SafeSearch](/setprefs?safeui=on&sig=0_OhgxQ9XudHYpXv4-S839fWBTj7Y%3D&prev=https://www.google.com/search?client%3Dubuntu%26channel%3Dfs%26q%3DWorldssmallestcountry%26ie%3Dutf-8%26oe%3Dutf-8)[Advanced
-search](/advanced_search?q=World's+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&hl=en)[Search
+on SafeSearch](/setprefs?safeui=on&sig=0_CLVwMSspgbZDj1H58K_am-YR-
+kQ%3D&prev=https://www.google.com/search?client%3Dubuntu%26channel%3Dfs%26q%3DWorldssmallestcountry%26ie%3Dutf-8%26oe%3Dutf-8)[Advanced
+search](/advanced_search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&hl=en)[Search
 activity](/history/optout?hl=en)[Your data in
 Search](/history/privacyadvisor/search/unauth?utm_source=googlemenu)[Search
 help](//support.google.com/websearch/?source=g&hl=en-IN)
 
 Tools
 
-About 15,50,00,000 results (0.57 seconds)
+About 10,900 results (0.63 seconds)
 
-Showing results for [World's Smallest
-Country](/search?client=ubuntu&hs=lZ1&channel=fs&q=World's+Smallest+Country&spell=1&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQkeECKAB6BAgPECY)  
-Search instead for
-[Worldssmallestcountry](/search?client=ubuntu&hs=lZ1&channel=fs&q=Worldssmallestcountry&nfpr=1&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQvgUoAXoECA8QJw)  
+Did you mean: [World's Smallest
+Country](/search?client=ubuntu&hs=Y07&channel=fs&q=World's+Smallest+Country&spell=1&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQBSgAegQICxAm)
 
 # Search Results
 
-## Featured snippet from the web
+## Web results
 
-[](/search?q=World's+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&tbm=isch&source=iu&ictx=1&fir=gshYjf12B3YhRM%253A%252CM84jeD5MiZ2mZM%252C_&vet=1&usg=AI4_-kREipzHblsrWYaUaS2OgUnphe_f2g&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_h0wAHoECAgQBA#imgrc=gshYjf12B3YhRM:)
+[  
 
-[](/search?q=World's+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&tbm=isch&source=iu&ictx=1&fir=mIB7UNzREfsv-M%253A%252Cy17NEwNSL-
-wr8M%252C_&vet=1&usg=AI4_-kRiGH9nwW_BR-
-KhPktK7JOfsfcxug&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_h0wAXoECAgQBg#imgrc=mIB7UNzREfsv-M:)
+### #worldssmallestcountry Instagram posts (photos and videos ...
 
-[](/search?q=World's+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&tbm=isch&source=iu&ictx=1&fir=6Q2zXhOTErBacM%253A%252Cy17NEwNSL-
-wr8M%252C_&vet=1&usg=AI4_-kR7zmF_abo-
-mFXXj27iPuNl7wj5Cg&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ_h0wAnoECAgQCA#imgrc=6Q2zXhOTErBacM:)
+www.picuki.com › tag ›
+worldssmallestcountry](https://www.picuki.com/tag/worldssmallestcountry)
+
+www.picuki.com › tag › worldssmallestcountry
+
+Contiki Day 9 - Vatican City! Today I got to explore a part of Vatican City
+with a guided walking tour, the #worldssmallestcountry . It is a place of
+great significance ...
+
+[  
+
+### #worldssmallestcountry hashtag on Twitter - Tweets by
+
+twitter.com › hashtag ›
+worldssmallestcountry](https://twitter.com/hashtag/worldssmallestcountry?src=hash)
+
+twitter.com › hashtag › worldssmallestcountry
+
+See Tweets about #worldssmallestcountry on Twitter. See what people are saying
+and join the conversation.
+
+### Videos
+
+[2:29ये है दुनिया  
+का सबसे छोटा  
+देश | Worlds  
+Smallest ...](https://www.youtube.com/watch?v=oTYHRZ9xzdY)
+
+THE DAILY NEWS
+
+YouTube \- Jan 1, 2020
+
+[3:00ITALY TOURIST  
+ATTRACTIONS |  
+MUST VISIT IN  
+ROME ...](https://www.youtube.com/watch?v=EWPYYbe4YLk)
+
+TheTourismSchool
+
+YouTube \- Jun 20, 2018
+
+[6:48Vatican City The  
+Worlds Smallest  
+Country Travel Vlog](https://www.youtube.com/watch?v=TwqcSCzN0Yw)
+
+Davion West
+
+YouTube \- Mar 22, 2019
+
+## Web results
+
+[  
+
+### #WorldsSmallestCountry Photos and Videos | instabusters.net
+
+instabusters.net › hashtag-photos ›
+WorldsSmallestCou...](https://instabusters.net/hashtag-
+photos/WorldsSmallestCountry)
+
+instabusters.net › hashtag-photos › WorldsSmallestCou...
+
+  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:AxmAQb-cM6cJ:https://instabusters.net/hashtag-photos/WorldsSmallestCountry+&cd=7&hl=en&ct=clnk&gl=in&client=ubuntu)
+
+55; 22; 2 months ago. One of Italy's earliest Corona victims? I think not!!
+This is actually a somewhat-failed attempt to mummify a saint at the Vatican,
+which we ...
+
+### [Images for
+Worldssmallestcountry](/search?channel=fs&source=univ&tbm=isch&q=Worldssmallestcountry&client=ubuntu&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQsAR6BAgJEAE)
+
+### Guided Search Filters
+
+[sealand](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:sealand:IqFOaIj9xUg%3D&usg=AI4_-kQWXkA8XYz0y3v9QT0YLnlXaXCQfA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAB6BAgJEAQ)[map](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:map:v5PHaCrkc-w%3D&usg=AI4_-kTpL5SFOFchgEv8SCjEUm1_OY34YQ&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAF6BAgJEAY)[population](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:population&usg=AI4_-kQnaGhp32eRPd5Tsi2u8HcQOR3d5g&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAJ6BAgJEAg)[name](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:name:G3rECq8Z2ZM%3D&usg=AI4_-kSkpjyRLR7Dfk9AqT50pX-R0o2DoQ&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAN6BAgJEAk)[island](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:island&usg=AI4_-kQPyndYSOIcBOMkON6aIh-
+hT9SDRA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAR6BAgJEAs)[city](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:city&usg=AI4_-kQCvBRJRT2hVUpNxMKmpSInVT1GtA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAV6BAgJEAw)[vatican](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:vatican&usg=AI4_-kTf2l9e6RiLvwkOgBwhoQcXbfXWDQ&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAZ6BAgJEA0)[beach
+italy](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:beach+italy&usg=AI4_-kSjnpSUwbpYC5o_af_K0LApvbSLPA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAd6BAgJEA4)[](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:top+10:HfflOc5arIM%3D&usg=AI4_-kRcGKw49ohNsNbjJgn4v6i_I4_XYA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAh6BAgJEA8)[tiniest](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:tiniest&usg=AI4_-kRXeqaBOdFAeEN2RbmMmb61tN77mA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAl6BAgJEBE)[area](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:area&usg=AI4_-kQdlr8RwEaG-4G8joU1b5vTG7Hwbw&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAp6BAgJEBI)[monaco](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:monaco&usg=AI4_-kTYc5Z_bDImBBJpBzttfUxQvZjSYg&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAt6BAgJEBM)[next](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:next&usg=AI4_-kTstRyqZH7grOBGFaFvz7HAd2BVdA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKAx6BAgJEBQ)[most
+strong](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:most+strong&usg=AI4_-kS0K8T3BsnnJZOEzajVrPJHXLqoEw&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKA16BAgJEBU)[most
+beautiful](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:most+beautiful&usg=AI4_-kT5AgalCJv3g21Kv54vZ1y8m_ggxw&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKA56BAgJEBY)[tiny
+island](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:tiny+island&usg=AI4_-kTenruGO_AoCOkjl42bbyVqohJaqw&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKA96BAgJEBc)[small
+island](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:small+island&usg=AI4_-kSRI7M9Zceey-w2QTrTLw3VHrLbHA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKBB6BAgJEBg)[eastern
+europe](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:eastern+europe&usg=AI4_-kRCn5Pn-B5z6uZVaE1jCkhRNMul7A&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKBF6BAgJEBk)[most
+small](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:most+small&usg=AI4_-kTX4Xoq1ZXJW67WrHG-C52OcbGHCQ&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKBJ6BAgJEBo)[ranked
+size](/search?client=ubuntu&hs=Y07&channel=fs&q=Worldssmallestcountry&tbm=isch&chips=q:worlds+smallest+country,g_1:ranked+size&usg=AI4_-kRlmcKOXTFSpQ1rY87H6_l2hWByYw&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQgIoDKBN6BAgJEBs)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=_KpPlAhNx059PM%253A%252C3WPNCrPhft7cVM%252C_&vet=1&usg=AI4_-kRUXDrYtzLyeuNsPjHLB6d1qzSvXQ&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwB3oECAkQIQ#imgrc=_KpPlAhNx059PM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=BZnLdmmAswwVYM%253A%252CKFGCjVeiCbj1xM%252C_&vet=1&usg=AI4_-kRcoX0z2KofFepcIyB0gdJHOC7BTA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwCHoECAkQIw#imgrc=BZnLdmmAswwVYM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=ZJBjwgoBYwRvVM%253A%252CKFGCjVeiCbj1xM%252C_&vet=1&usg=AI4_-kTOv-
+owoc6mY59W4oJIwz2hXZKrhw&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwCXoECAkQJQ#imgrc=ZJBjwgoBYwRvVM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=idY2OKLSYWR9WM%253A%252C3WPNCrPhft7cVM%252C_&vet=1&usg=AI4_-kTb0V04acQ5oCCbsdN2NQavO6b55A&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwCnoECAkQJw#imgrc=idY2OKLSYWR9WM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=TM6ifX0yFT-
+HvM%253A%252C3WPNCrPhft7cVM%252C_&vet=1&usg=AI4_-kR-
+WVNgYujYFLEuZFtkSKWnv2V6rQ&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwC3oECAkQKQ#imgrc=TM6ifX0yFT-
+HvM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=Wo9NHaNGa-
+nePM%253A%252CKFGCjVeiCbj1xM%252C_&vet=1&usg=AI4_-kSkjMyMr4gv3hbE9nrOimA6gb3I_Q&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwDHoECAkQKw#imgrc=Wo9NHaNGa-
+nePM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=M4-RBWzMQ_6MuM%253A%252C3WPNCrPhft7cVM%252C_&vet=1&usg=AI4_-kT61mDWIUTHDE5TJi8LcgcqC2VhPg&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwDXoECAkQLQ#imgrc=M4-RBWzMQ_6MuM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=Wjkd6Cg2RdArNM%253A%252Ccsrkb82QV8MN9M%252C_&vet=1&usg=AI4_-kSTUUMYKsAa1_VuYvq2qNgVYibziQ&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwDnoECAkQLw#imgrc=Wjkd6Cg2RdArNM:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=YZZVx3l2BNVI8M%253A%252CKFGCjVeiCbj1xM%252C_&vet=1&usg=AI4_-kQ9f6hiZr_fm0thOw_o36IT8KuXSA&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwD3oECAkQMQ#imgrc=YZZVx3l2BNVI8M:)
+
+[](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&tbm=isch&source=iu&ictx=1&fir=9oLm_dloDKDEtM%253A%252C3WPNCrPhft7cVM%252C_&vet=1&usg=AI4_-kSxFNry1ic6lnksK273-yV0MwSuXg&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ9QEwEHoECAkQMw#imgrc=9oLm_dloDKDEtM:)
 
 [View
-all](/search?channel=fs&source=univ&tbm=isch&q=World's+Smallest+Country&client=ubuntu&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ420oA3oECAgQCQ)
+all](/search?channel=fs&source=univ&tbm=isch&q=Worldssmallestcountry&client=ubuntu&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ420oCnoECAkQNA)
 
-Vatican City
+[More images for
+Worldssmallestcountry](/search?channel=fs&source=univ&tbm=isch&q=Worldssmallestcountry&client=ubuntu&sa=X&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ7Al6BAgJEDU)ReportedReport
+imagesThank you for the feedback. Report another imagePlease report the
+offensive image. CancelDone
 
-Based on landmass, Vatican City is the smallest country in the world,
-measuring just 0.2 square miles, almost 120 times smaller than the island of
-Manhattan. Situated on the western bank of the Tiber River, Vatican City's
-2-mile border is landlocked by Italy.Jul 17, 2013
+## Web results
+
+[  
+
+### List worldssmallestcountry Photos and Videos - bigsta.net
+
+bigsta.net › tag ›
+worldssmallestcountry](https://bigsta.net/tag/worldssmallestcountry/)
+
+bigsta.net › tag › worldssmallestcountry
+
+List all worldssmallestcountry photos and videos. Find and browse tons of
+worldssmallestcountry new posts from instagram and other social media
+platforms on ...
 
 [  
 
@@ -91,229 +205,72 @@ world)
 
 www.history.com › news › what-is-the-smallest-country...
 
-  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:y17NEwNSL-wJ:https://www.history.com/news/what-is-the-smallest-country-in-the-world+&cd=6&hl=en&ct=clnk&gl=in&client=ubuntu)
+  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:y17NEwNSL-wJ:https://www.history.com/news/what-is-the-smallest-country-in-the-world+&cd=19&hl=en&ct=clnk&gl=in&client=ubuntu)
 
-Feedback
-
-[](/url?url=https://support.google.com/websearch?p%3Dfeatured_snippets%26hl%3Den-
-IN&rct=j&q=&esrc=s&usg=AOvVaw1vZKUsZLL2lq4flgrOD_cS&hl=en-
-IN&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQrpwBegQIDRAQ)[About Featured
-Snippets](/url?url=https://support.google.com/websearch?p%3Dfeatured_snippets%26hl%3Den-
-IN&rct=j&q=&esrc=s&usg=AOvVaw1vZKUsZLL2lq4flgrOD_cS&hl=en-
-IN&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQrpwBegQIDRAR)
-
-## People also ask
-
-What are the top 10 smallest countries in the world?
-
-Is Israel the smallest country?
-
-What is the smallest country in the world 2019?
-
-Is Malta the smallest country in the world?
-
-Feedback
-
-## Web results
+Jul 17, 2013 - It may be difficult to imagine, but there is a country in the
+world smaller than New York City's Central Park and one with a population
+smaller ...
 
 [  
 
-### The smallest countries in the world by area
+### How to explore Worlds smallest country - Vatican City in a day ...
 
-www.countries-ofthe-world.com › smallest-countries](https://www.countries-
-ofthe-world.com/smallest-countries.html)
+www.tripoto.com › Vatican Travel Guide › Vatican
+Trips](https://www.tripoto.com/trip/how-to-explore-world-s-smallest-country-
+vatican-city-in-a-day-59069385a3d2e)
 
-www.countries-ofthe-world.com › smallest-countries
+www.tripoto.com › Vatican Travel Guide › Vatican Trips
 
-  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:tRX2Gb6PlocJ:https://www.countries-ofthe-world.com/smallest-countries.html+&cd=15&hl=en&ct=clnk&gl=in&client=ubuntu)
-  2. [Similar](/search?client=ubuntu&hs=lZ1&channel=fs&q=related:https://www.countries-ofthe-world.com/smallest-countries.html+World%27s+Smallest+Country&tbo=1&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQHzAOegQIAhAH)
+  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:VnwZf6AIsM8J:https://www.tripoto.com/trip/how-to-explore-world-s-smallest-country-vatican-city-in-a-day-59069385a3d2e+&cd=20&hl=en&ct=clnk&gl=in&client=ubuntu)
 
-The smallest one of them is the Vatican City (Holy See), it actually occupies
-only an old quarter with a few buildings and parks in the center of Rome
-(Italy).
-
-### Videos
-
-[11:57Inside World's  
-Smallest "Country" |  
-Ground Report by  
-Dhruv ...](https://www.youtube.com/watch?v=DXswo-X1IuM)
-
-Dhruv Rathee
-
-YouTube \- Sep 14, 2019
-
-[13:44Top 10 Smallest  
-Countries In The  
-World](https://www.youtube.com/watch?v=oJMATC5glmE)
-
-World Top 10
-
-YouTube \- Dec 25, 2016
-
-[3:57Top 5 Smallest  
-Countries in the  
-World](https://www.youtube.com/watch?v=jm0OzfJ0HMc)
-
-Earth Titan
-
-YouTube \- May 28, 2016
-
-## Web results
+With just 110 acres of land area and approximately 1000 citizens, Vatican City
+is the world's smallest country! Vatican City mints its own euros, has its own
+army, ...
 
 [  
 
-### List of countries and dependencies by area - Wikipedia
+### #worldssmallestcountry stories highlights, photos and videos ...
 
-en.wikipedia.org › wiki ›
-List_of_countries_and_depen...](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area)
+pictame2.com › tag ›
+worldssmallestcountry](https://pictame2.com/tag/worldssmallestcountry/)
 
-en.wikipedia.org › wiki › List_of_countries_and_depen...
+pictame2.com › tag › worldssmallestcountry
 
-  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:u1-xtRCXmUAJ:https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area+&cd=26&hl=en&ct=clnk&gl=in&client=ubuntu)
-  2. [Similar](/search?client=ubuntu&hs=lZ1&channel=fs&q=related:https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area+World%27s+Smallest+Country&tbo=1&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQHzAZegQIBxAH)
+  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:FaptpLa0QwQJ:https://pictame2.com/tag/worldssmallestcountry/+&cd=21&hl=en&ct=clnk&gl=in&client=ubuntu)
 
-This is a list of the world's countries and their dependent territories by
-area, ranked by total area ... Coastal internal waters (some small bays) may
-be included.
-
-[  
-
-### The Largest and the Smallest Countries in the World by Area ...
-
-www.nationsonline.org › oneworld ›
-countries_by_area](https://www.nationsonline.org/oneworld/countries_by_area.htm)
-
-www.nationsonline.org › oneworld › countries_by_area
-
-  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:M84jeD5MiZ0J:https://www.nationsonline.org/oneworld/countries_by_area.htm+&cd=27&hl=en&ct=clnk&gl=in&client=ubuntu)
-
-The three smallest countries in the world are Vatican City, an enclave in
-Rome, Monaco, a principality on the Mediterranean coast and an enclave within
-Southern ...
+The Vatican City, the world's officially recognised smallest nation surrounded
+by Rome, Italy, is the headquarters of the Roman Catholic Church. It's home to
+the ...
 
 [  
 
-### The 10 Smallest Countries In The World - WorldAtlas
+### Who is the worlds smallest country - Brainly.in
 
-www.worldatlas.com › World
-Facts](https://www.worldatlas.com/articles/the-10-smallest-countries-in-the-
-world.html)
+brainly.in › Secondary School ›
+Geography](https://brainly.in/question/15455421)
 
-www.worldatlas.com › World Facts
+brainly.in › Secondary School › Geography
 
-  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:P1qwtFtSQ84J:https://www.worldatlas.com/articles/the-10-smallest-countries-in-the-world.html+&cd=28&hl=en&ct=clnk&gl=in&client=ubuntu)
+  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:zwsHlvgIg78J:https://brainly.in/question/15455421+&cd=22&hl=en&ct=clnk&gl=in&client=ubuntu)
 
-Jul 25, 2019 - An island nation located east of Australia, Nauru is the
-smallest island country in the world. It was known in the 1980s for its
-booming phosphate ...
+Who is the worlds smallest country. Ask for details; Follow; Report. by
+Mohanranjan48641 18.02.2020. Log in to add a comment ...
 
-[  
-
-### The World's 17 Smallest Countries - ThoughtCo
-
-www.thoughtco.com › ... › Country Information](https://www.thoughtco.com/the-
-worlds-smallest-countries-1433446)
-
-www.thoughtco.com › ... › Country Information
-
-  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:86tXwGbHiQ8J:https://www.thoughtco.com/the-worlds-smallest-countries-1433446+&cd=29&hl=en&ct=clnk&gl=in&client=ubuntu)
-  2. [Similar](/search?client=ubuntu&hs=lZ1&channel=fs&q=related:https://www.thoughtco.com/the-worlds-smallest-countries-1433446+World%27s+Smallest+Country&tbo=1&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQHzAcegQIAxAJ)
-
-Feb 3, 2020 - Nauru is a small island nation located in the South Pacific
-Ocean in the region of Oceania. Nauru is the world's smallest island country
-with an ...
-
-[  
-
-### 7 Smallest Countries in the World - Jagran Josh
-
-www.jagranjosh.com › ... › GK Facts](https://www.jagranjosh.com/general-
-knowledge/smallest-countries-in-the-world-1504704427-1)
-
-www.jagranjosh.com › ... › GK Facts
-
-  1. [Cached](https://webcache.googleusercontent.com/search?q=cache:08UO9oCE70sJ:https://www.jagranjosh.com/general-knowledge/smallest-countries-in-the-world-1504704427-1+&cd=30&hl=en&ct=clnk&gl=in&client=ubuntu)
-
-Mar 14, 2020 - Vatican City is the smallest country in the world. It is also
-known as Holy See. It is located in the city of Rome, Italy. It is the center
-of the Catholic ...
-
-Related search
-
-Countries in Europe
-
-[Vatican
-City](/search?client=ubuntu&hs=lZ1&channel=fs&q=Vatican+City&stick=H4sIAAAAAAAAAOOQUeLQz9U3MK8sKTESTs4vzSspykwtVsjMU0gtLcovSI2SCM8vyklRL1YIzk3MyUktLlFwBquqPMUI1wllmpSbWsCYWabGUKZZcVraKUZ2EDMj3RQmn25mCGOWGRf-
-YhR2RrbbFWz3IlaesMSSzOTEPAXnzJJKAAGq1ZqsAAAA&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQxA0wHnoECAUQAw
-"Vatican City")
-
-[Monaco](/search?client=ubuntu&hs=lZ1&channel=fs&q=Monaco&stick=H4sIAAAAAAAAAOOQUeLQz9U3MCk3tTASTs4vzSspykwtVsjMU0gtLcovSI2SCM8vyklRL1YIzk3MyUktLlFwBquqPMUI1mleWVICZYIMgTGzTI2hTLPitLRTjOwgZka6KUw-3cwQxiwzLvzFKOyMbLcr2O5FrGy
---XmJyfkA-bLK26YAAAA&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQxA0wHnoECAUQBQ
-"Monaco")
-
-[Liechtenstein](/search?client=ubuntu&hs=lZ1&channel=fs&q=Liechtenstein&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMkyNTYSTs4vzSspykwtVsjMU0gtLcovSI2SCM8vyklRL1YIzk3MyUktLlFwBquqPMUI1mleWVICZZqUm1rAmEDzoEyz4rS0U4zsIGZGuilMPt3MEMYsMy78xSjsjGy3K9juRay8PpmpyRklqXnFJamZeQDgfQV8rQAAAA&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQxA0wHnoECAUQBw
-"Liechtenstein")
-
-[San
-Marino](/search?client=ubuntu&hs=lZ1&channel=fs&q=San+Marino&stick=H4sIAAAAAAAAAOOQUeLQz9U3MCtOSzMSTs4vzSspykwtVsjMU0gtLcovSI2SCM8vyklRL1YIzk3MyUktLlFwBquqPMUI1mleWVICZZqUm1rAmFmmxlAmyOhTjOwgZka6KUw-3cwQxiwzLvzFKOyMbLcr2O5FrFzBiXkKvolFmXn5AK-
-_OEWqAAAA&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQxA0wHnoECAUQCQ "San
-Marino")
-
-[Andorra](/search?client=ubuntu&hs=lZ1&channel=fs&q=Andorra&stick=H4sIAAAAAAAAAOOQUWLXz9U3yEg3NRJOzi_NKynKTC1WyMxTSC0tyi9IjZIIzy_KSVEvVgjOTczJSS0uUXAGq6o8xcgB0mheWVICZZqUm1rAmFmmxlCmWXFa2ilGmCUw-
-XQzQxizzLjwF6OwM7LdrmC7F7GyO-
-al5BcVJQIANoJba6YAAAA&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQxA0wHnoECAUQCw
-"Andorra")
-
-[Luxembourg](/search?client=ubuntu&hs=lZ1&channel=fs&q=Luxembourg&stick=H4sIAAAAAAAAAOOQUeLQz9U3MEk3MzQSTs4vzSspykwtVsjMU0gtLcovSI2SCM8vyklRL1YIzk3MyUktLlFwBquqPMUI1mleWVICZZqUm1rAmFmmxlCmWXFa2ilGdhAzI90UJg-0D8YsMy78xSjsjGy3K9juRaxcPqUVqblJ-
-aVF6QCI2w02qgAAAA&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQxA0wHnoECAUQDQ
-"Luxembourg")
-
-[Malta](/search?client=ubuntu&hs=lZ1&channel=fs&q=Malta&stick=H4sIAAAAAAAAAOOQUeLQz9U3MCkzLjQSTs4vzSspykwtVsjMU0gtLcovSI2SCM8vyklRL1YIzk3MyUktLlFwBquqPMUI1mleWVICZZqUm1rAmFmmxlCmWXFa2ilGdhAzI90UJp9uZghjAq3-xSjsjGy3K9juRaysvok5JYkAKANoKKUAAAA&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQxA0wHnoECAUQDw
-"Malta")
-
-Feedback
-
-### Searches related to World's Smallest Country
-
-[smallest country in the world by
-population](/search?client=ubuntu&hs=lZ1&channel=fs&q=smallest+country+in+the+world+by+population&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoAHoECAoQAQ)
-
-[largest country in the
-world](/search?client=ubuntu&hs=lZ1&channel=fs&q=largest+country+in+the+world&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoAXoECAoQAg)
-
-[50 smallest countries in the
-world](/search?client=ubuntu&hs=lZ1&channel=fs&q=50+smallest+countries+in+the+world&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoAnoECAoQAw)
-
-[smallest country in the world
-2019](/search?client=ubuntu&hs=lZ1&channel=fs&q=smallest+country+in+the+world+2019&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoA3oECAoQBA)
-
-[second-smallest country in the
-world](/search?client=ubuntu&hs=lZ1&channel=fs&q=second-
-smallest+country+in+the+world&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoBHoECAoQBQ)
-
-[smallest country in
-asia](/search?client=ubuntu&hs=lZ1&channel=fs&q=smallest+country+in+asia&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoBXoECAoQBg)
-
-[how many countries in the
-world](/search?client=ubuntu&hs=lZ1&channel=fs&q=how+many+countries+in+the+world&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoBnoECAoQBw)
-
-[smallest country in
-europe](/search?client=ubuntu&hs=lZ1&channel=fs&q=smallest+country+in+europe&sa=X&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ1QIoB3oECAoQCA)
+2 answers
 
 # Page navigation
 
 | 1|
-[2](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=10&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxAv)|
-[3](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=20&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxAx)|
-[4](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=30&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxAz)|
-[5](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=40&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxA1)|
-[6](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=50&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxA3)|
-[7](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=60&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxA5)|
-[8](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=70&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxA7)|
-[9](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=80&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxA9)|
-[10](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=90&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8tMDegQIDxA_)|
-[Next](/search?q=World%27s+Smallest+Country&client=ubuntu&hs=lZ1&channel=fs&ei=9LjgXtqsJaCx5OUPuua6qAY&start=10&sa=N&ved=2ahUKEwja9snxh_fpAhWgGLkGHTqzDmUQ8NMDegQIDxBB)  
+[2](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=10&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxAu)|
+[3](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=20&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxAw)|
+[4](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=30&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxAy)|
+[5](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=40&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxA0)|
+[6](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=50&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxA2)|
+[7](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=60&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxA4)|
+[8](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=70&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxA6)|
+[9](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=80&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxA8)|
+[10](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=90&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8tMDegQICxA-)|
+[Next](/search?q=Worldssmallestcountry&client=ubuntu&hs=Y07&channel=fs&ei=iRnhXqfPMePWz7sP8tqpmAQ&start=10&sa=N&ved=2ahUKEwjnt7z_4_fpAhVj63MBHXJtCkMQ8NMDegQICxBA)  
 ---|---|---|---|---|---|---|---|---|---|---|---  
   
 # Footer links
