@@ -5,7 +5,7 @@ import html2text
 
 from bs4 import BeautifulSoup
 
-query = "PES_University"
+query = "Thomas_alva_edison"
 url = 'https://en.wikipedia.org/wiki/{}'.format(query)
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}  
 req = Request(url, headers = headers)
@@ -21,7 +21,7 @@ table_contents = {}
 for i in content_div.contents:
     # This contains the div of links
     nn_sibling = i.nextSibling.nextSibling
-    if(i.name == "p" and nn_sibling.name == "div"):
+    if((i.name == "p") and (i.contents[0] != '\n') and (nn_sibling.name == "div")):
         string += str(i)
         if (nn_sibling["id"] == "toc"):
             links = str(nn_sibling)
@@ -37,26 +37,44 @@ for i in content_div.contents:
                     table_contents[key[0]] = val
         break
     # Gets the starting paragraph
-    elif(i.name == "p" and i.contents[0] != '\n'):
+    elif((i.name == "p") and (i.contents[0] != '\n')):
         string += str(i)
 
 # This query_2 is the query to the link i.e.,
 #    it is contained in the table_contents dictionary
-query_2 = '2.4'
+query_2 = '5.1'
 req_res = table_contents[query_2]
 find = soup.find(id=req_res)
 # Position of the Reference LInk
 link_extract = find.parent.nextSibling.nextSibling
-link_extract = str(link_extract)
 
-# print(table_contents)
+if (link_extract.name == "div"):
+    link_extract = link_extract.nextSibling.nextSibling
+
+li = list(table_contents)
+# to get the next link in the dict
+res = li[li.index(query_2)+1]
+
+next_target = soup.find(id=table_contents[res])
+
+link_extract_str = str(link_extract)
+if (link_extract != next_target.parent):
+    temp = link_extract.nextSibling
+
+    # to get all the data till the next link
+    while(temp != next_target.parent):
+        link_extract_str += str(temp)
+        temp = temp.nextSibling
+        
+
+
 h = html2text.HTML2Text()
 h.ignore_images = True
 h.ignore_emphasis = True
 h.escape_all = True
 rendered_content = h.handle(string).encode('utf-8')
 link_content = h.handle(links).encode('utf-8')
-link_extract = h.handle(link_extract).encode('utf-8')
+link_extract = h.handle(link_extract_str).encode('utf-8')
 
 # File which contains the Starting Paragraph of the Wiki page
 file = open('wiki_text.txt', 'w')

@@ -1,16 +1,24 @@
 
 
-All the courses which have been conferred autonomous status have their
-departments set their own course content and grading system. The college
-follows the [credit-based system](/wiki/Course_credit "Course credit") of
-performance evaluation, with proportional weighting of courses based on their
-importance. The total marks (usually out of 100) form the basis of grades,
-with a grade value (out of 10) assigned to a range of marks. For each
-semester, the students are graded by taking a weighted average of all the
-subject grades with their respective credit points. Each semester's evaluation
-is done independently with a cumulative grade point average (CGPA) reflecting
-the overall performance across semesters. Till June 2012, the grading system
-being followed was [relative grading](/wiki/Grading_on_a_curve "Grading on a
-curve"),[10] but the college switched to an absolute grading system after
-consultations with the university.[11]
+Edison is credited with designing and producing the first commercially
+available [fluoroscope](/wiki/Fluoroscopy "Fluoroscopy"), a machine that uses
+[X-rays](/wiki/X-rays "X-rays") to take [radiographs](/wiki/Radiographs
+"Radiographs"). Until Edison discovered that [calcium
+tungstate](/wiki/Scheelite "Scheelite") fluoroscopy screens produced brighter
+images than the barium [platinocyanide](/wiki/Platinocyanide "Platinocyanide")
+screens originally used by [Wilhelm Röntgen](/wiki/Wilhelm_R%C3%B6ntgen
+"Wilhelm Röntgen"), the technology was capable of producing only very faint
+images.
+
+The fundamental design of Edison's fluoroscope is still in use today, although
+Edison abandoned the project after nearly losing his own eyesight and
+seriously injuring his assistant, [Clarence
+Dally](/wiki/Clarence_Madison_Dally "Clarence Madison Dally"). Dally made
+himself an enthusiastic human guinea pig for the fluoroscopy project and was
+exposed to a poisonous dose of radiation; he later died (at the age of 39) of
+injuries related to the exposure, mediastinal cancer.[87]
+
+In 1903, a shaken Edison said: "Don't talk to me about X-rays, I am afraid of
+them."[88] Nonetheless, his work was important in the development of a
+technology still used today.[89]
 
