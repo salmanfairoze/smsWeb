@@ -4,7 +4,7 @@ from flask import Flask
 from flaskext.mysql import MySQL
 import json
 import requests
-from google import google
+from Google.google import google
 import wolframalpha
 
 mysql = MySQL()

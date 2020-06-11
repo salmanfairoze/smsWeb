@@ -3,7 +3,7 @@ from urllib.request import urlopen
 import pandas as pd
 
 url="https://www.mohfw.gov.in"
-query = "Tamil Nadu"
+query = "Karnataka"
 soup = bs(urlopen(url),'lxml')
 
 for table in soup.findAll('tbody'):
@@ -26,6 +26,8 @@ for col in row :
 		total_confirmed.append(c[5].text)	
 		
 #print(name)
+# print(sno)
 df = pd.DataFrame({'sno':sno,'Name':name,"active":active,'Cured':cured_dis_mig,'deaths':deaths,"total_confirmed":total_confirmed}) 
-print(df.loc[df['Name'] == query.lower()])
+# print(df)
+print(df.loc[df['Name'] == query.lower()].to_string(index=False))
 df.to_csv('cases.csv', index=False, encoding='utf-8')	

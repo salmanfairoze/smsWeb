@@ -1,0 +1,12 @@
+flask
+requests
+wolframalpha
+Flask-MySQL
+beautifulsoup4
+pandas
+html2text
+secure-smtplib
+unidecode
+future
+selenium
+fake_useragent
