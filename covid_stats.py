@@ -5,6 +5,7 @@ import pandas as pd
 url="https://www.mohfw.gov.in"
 query = "Karnataka"
 soup = bs(urlopen(url),'lxml')
+
 for table in soup.findAll('tbody'):
 	row=table.findAll('tr')
 	break;
