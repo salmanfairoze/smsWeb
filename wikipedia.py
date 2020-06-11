@@ -5,7 +5,7 @@ import html2text
 
 from bs4 import BeautifulSoup
 
-query = "Thomas_alva_edison"
+query = "Kingdom_Animalia"
 url = 'https://en.wikipedia.org/wiki/{}'.format(query)
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}  
 req = Request(url, headers = headers)
@@ -42,7 +42,7 @@ for i in content_div.contents:
 
 # This query_2 is the query to the link i.e.,
 #    it is contained in the table_contents dictionary
-query_2 = '5.1'
+query_2 = '1'
 req_res = table_contents[query_2]
 find = soup.find(id=req_res)
 # Position of the Reference LInk

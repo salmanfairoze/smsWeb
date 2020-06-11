@@ -1,0 +1,2422 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   PES University - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ce20f0c7-4e4a-46e5-a950-b37e8a16914f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"PES_University","wgTitle":"PES University","wgCurRevisionId":958859425,"wgRevisionId":958859425,"wgArticleId":42756056,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from March 2018","Articles with permanently dead external links","Use dmy dates from January 2019","Use Indian English from January 2019","All Wikipedia articles written in Indian English",
+"Pages using outdated Infobox India university ranking","Commons category link is on Wikidata","All India Council for Technical Education","Affiliates of Visvesvaraya Technological University","Engineering colleges in Bangalore","Engineering universities and colleges in India","1972 establishments in India","Educational institutions established in 1972"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"PES_University","wgRelevantArticleId":42756056,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,
+"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17082766","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles.legacy":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.35.0-wmf.35" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="/w/index.php?title=PES_University&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=PES_University&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+  <link href="https://en.wikipedia.org/wiki/PES_University" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-PES_University rootpage-PES_University skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    PES University
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#p-search">
+     Jump to search
+    </a>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt">
+      </p>
+      <table class="infobox vcard" style="width:22em">
+       <caption class="fn org">
+        PES University Ring Road Campus
+       </caption>
+       <tbody>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <a class="image" href="/wiki/File:PES-University-Bangalore.png">
+           <img alt="PES-University-Bangalore.png" data-file-height="101" data-file-width="323" decoding="async" height="69" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/PES-University-Bangalore.png/220px-PES-University-Bangalore.png" srcset="//upload.wikimedia.org/wikipedia/en/9/9e/PES-University-Bangalore.png 1.5x" width="220"/>
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          <div style="padding:0.1em 0;line-height:1.2em;">
+           Former name
+          </div>
+         </th>
+         <td class="nickname">
+          PES Institute of Technology
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Motto
+         </th>
+         <td>
+          Perseverance, Excellence, Service
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Type
+         </th>
+         <td>
+          Private University
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Established
+         </th>
+         <td>
+          1972
+          <sup class="reference" id="cite_ref-1">
+           <a href="#cite_note-1">
+            [1]
+           </a>
+          </sup>
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Founder
+         </th>
+         <td>
+          Dr. M R Doreswamy
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          <a href="/wiki/Chancellor_(education)" title="Chancellor (education)">
+           Chancellor
+          </a>
+         </th>
+         <td>
+          Dr. M R Doreswamy
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          <span class="nowrap">
+           <a class="mw-redirect" href="/wiki/Vice-Chancellor" title="Vice-Chancellor">
+            Vice-Chancellor
+           </a>
+          </span>
+         </th>
+         <td>
+          Dr. Suryaprasad J
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          <a class="mw-redirect" href="/wiki/Principal_(university)" title="Principal (university)">
+           Principal
+          </a>
+         </th>
+         <td>
+          Dr. K S Sridhar
+          <sup class="reference" id="cite_ref-principal_2-0">
+           <a href="#cite_note-principal-2">
+            [2]
+           </a>
+          </sup>
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Pro Chancellor
+         </th>
+         <td>
+          Prof. Jawahar Doreswamy
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Location
+         </th>
+         <td class="adr">
+          <div class="locality" style="display:inline">
+           Bengaluru
+          </div>
+          ,
+          <div class="state" style="display:inline">
+           Karnataka
+          </div>
+          ,
+          <div class="country-name" style="display:inline">
+           India
+          </div>
+          <br/>
+          <span class="plainlinks nourlexpansion">
+           <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=PES_University&amp;params=12_56_1.75_N_77_32_4.12_E_region:IN">
+            <span class="geo-default">
+             <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+              <span class="latitude">
+               12°56′1.75″N
+              </span>
+              <span class="longitude">
+               77°32′4.12″E
+              </span>
+             </span>
+            </span>
+            <span class="geo-multi-punct">
+             ﻿ / ﻿
+            </span>
+            <span class="geo-nondefault">
+             <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+              12.9338194°N 77.5344778°E
+             </span>
+             <span style="display:none">
+              ﻿ /
+              <span class="geo">
+               12.9338194; 77.5344778
+              </span>
+             </span>
+            </span>
+           </a>
+          </span>
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Campus
+         </th>
+         <td>
+          <a href="/wiki/Urban_area" title="Urban area">
+           Urban
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          <a href="/wiki/School_colors" title="School colors">
+           Colors
+          </a>
+         </th>
+         <td>
+          <span style="background-color:#191970; color:white; border:1px solid #000000; text-align:center;">
+          </span>
+          <span style="background-color:#D90404; color:white; border:1px solid #000000; text-align:center;">
+          </span>
+          Blue and Red
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Mascot
+         </th>
+         <td>
+          The Mastodon
+         </td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.65em;">
+          Website
+         </th>
+         <td>
+          <span class="url">
+           <a class="external text" href="http://www.pes.edu" rel="nofollow">
+            www
+            <wbr/>
+            .pes
+            <wbr/>
+            .edu
+           </a>
+          </span>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       <b>
+        People's Education Society University Ring Road Campus
+       </b>
+       (
+       <b>
+        PESU RR
+       </b>
+       or just
+       <b>
+        PESU
+       </b>
+       ), formerly
+       <b>
+        PES Institute of Technology
+       </b>
+       (
+       <b>
+        PESIT
+       </b>
+       ), is one of three
+       <a href="/wiki/Private_university" title="Private university">
+        private universities
+       </a>
+       under the name PES University in
+       <a class="mw-redirect" href="/wiki/Bengaluru" title="Bengaluru">
+        Bengaluru
+       </a>
+       ,
+       <a href="/wiki/India" title="India">
+        India
+       </a>
+       . Established in 1972,
+       <sup class="reference" id="cite_ref-HOSMAC_Foundation_3-0">
+        <a href="#cite_note-HOSMAC_Foundation-3">
+         [3]
+        </a>
+       </sup>
+       it is focused on five main educational areas: Engineering, Medicine, Management, Law and Life Sciences.  The institutions offer both foundation courses in these areas, as well as specializations, with a Bachelors, Master or PhD degree. It was upgraded to a university status in 2013.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+      <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation">
+       <input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/>
+       <div class="toctitle" dir="ltr" lang="en">
+        <h2 id="mw-toc-heading">
+         Contents
+        </h2>
+        <span class="toctogglespan">
+         <label class="toctogglelabel" for="toctogglecheckbox">
+         </label>
+        </span>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#History">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           History
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Academic_profile">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Academic profile
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Admission_criteria">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Admission criteria
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Faculty_and_research">
+            <span class="tocnumber">
+             2.2
+            </span>
+            <span class="toctext">
+             Faculty and research
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#PISAT">
+            <span class="tocnumber">
+             2.3
+            </span>
+            <span class="toctext">
+             PISAT
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Course_content_and_grading">
+            <span class="tocnumber">
+             2.4
+            </span>
+            <span class="toctext">
+             Course content and grading
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-7">
+         <a href="#Rankings">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Rankings
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-8">
+         <a href="#References">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#External_links">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="History">
+        History
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=1" title="Edit section: History">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       PESU RR is managed by the People's Education Society (PES), which founded the institution in 1972, in a rented gymnasium in Bengaluru, with around 40 students. PES currently manages over 45 educational programs in Karnataka and neighboring
+       <a href="/wiki/Andhra_Pradesh" title="Andhra Pradesh">
+        Andhra Pradesh
+       </a>
+       , with a total of over 15000 students.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       PESU was founded in the year 1988.
+       <sup class="reference" id="cite_ref-HOSMAC_Foundation_3-1">
+        <a href="#cite_note-HOSMAC_Foundation-3">
+         [3]
+        </a>
+       </sup>
+      </p>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a class="image" href="/wiki/File:Pesit_A-block.jpg">
+         <img alt="" class="thumbimage" data-file-height="498" data-file-width="884" decoding="async" height="124" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pesit_A-block.jpg/220px-Pesit_A-block.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pesit_A-block.jpg/330px-Pesit_A-block.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pesit_A-block.jpg/440px-Pesit_A-block.jpg 2x" width="220"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/File:Pesit_A-block.jpg" title="Enlarge">
+          </a>
+         </div>
+         Prof. M. R. Doreswamy Silver Jubilee Complex (A-Block)
+        </div>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Academic_profile">
+        Academic profile
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=2" title="Edit section: Academic profile">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Admission_criteria">
+        Admission criteria
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=3" title="Edit section: Admission criteria">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       PESU admits 40% of its students to undergraduate courses based on their
+       <a href="/wiki/Common_Entrance_Test" title="Common Entrance Test">
+        Karnataka CET
+       </a>
+       and 60% seats based on PESSAT (the university's own entrance test) ranks. PESU also admits students under Management quota, which does not place any merit requirements. There is a lateral entry scheme in place, by which students holding diploma degrees can directly enter the second year of study in engineering. On graduating students receive a
+       <a href="/wiki/Bachelor_of_Technology" title="Bachelor of Technology">
+        Bachelor of Technology
+       </a>
+       degree.
+      </p>
+      <p>
+       Students are admitted to postgraduate courses based on their
+       <a href="/wiki/Graduate_Aptitude_Test_in_Engineering" title="Graduate Aptitude Test in Engineering">
+        GATE
+       </a>
+       test scores  as well as on their Post Graduate
+       <a href="/wiki/Common_Entrance_Test" title="Common Entrance Test">
+        Karnataka CET
+       </a>
+       scores. Upon graduating, they receive a
+       <a class="mw-redirect" href="/wiki/Master_of_Technology" title="Master of Technology">
+        Master of Technology
+       </a>
+       degree.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Faculty_and_research">
+        Faculty and research
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=4" title="Edit section: Faculty and research">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Crucible Of Research and Innovation (CORI) is a multi-disciplinary research centre at PESU. It was inaugurated by Bharat Ratna Dr.
+       <a class="mw-redirect" href="/wiki/C.N.R_Rao" title="C.N.R Rao">
+        C.N.R Rao
+       </a>
+       (former Director, Indian Institute of Science) on 7 February 2010. It has research facilities and a set of dedicated research staff who carry out research in their areas of interest.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Centre for Intelligent Systems (CIS) is a research centre at PESU, which researches on topics including Control Systems, Speech, Image and Signal Processing, Robotics, Artificial intelligence, and Low Power VLSI Design.Selected students do internship in Microsoft Innovation Lab in our campus have a great learning curve
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="PISAT">
+        PISAT
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=5" title="Edit section: PISAT">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       On 26 September 2016, PISAT was successfully placed into polar Sun Synchronous Orbit (SSO) orbit by India's Polar Satellite Launch Vehicle, in its thirty-seventh flight (PSLV-C35). Prime Minister,
+       <a href="/wiki/Narendra_Modi" title="Narendra Modi">
+        Narendra Modi
+       </a>
+       tweeted "I applaud the industrious and innovative students of PES University, Bengaluru for creating PISAT that was launched successfully today". The launch vehicle, carrying multiple satellites including PISAT, lifted off from
+       <a href="/wiki/Sriharikota" title="Sriharikota">
+        Sriharikota
+       </a>
+       in Andhra Pradesh at 9:12 am. The team on the PES University campus is preparing to receive data from the satellite.
+      </p>
+      <p>
+       PISAT is a three axis stabilized imaging
+       <a class="mw-redirect" href="/wiki/Nanosatellite" title="Nanosatellite">
+        nanosatellite
+       </a>
+       weighing about 5 kg and generates 13 watts power with S-band RF communication. The major subsystems are: an imaging camera to provide earth imageries with 80 meter resolution, On Board Computer (OBC), Attitude Determination and Control System (ADCS), RF communication system with S Band frequency, telemetry, telecommand, thermal system, structure and Electrical Power System (EPS). The ground software was developed for on-ground orbit determination essential for mission operations.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       PISAT was shipped to
+       <a href="/wiki/Satish_Dhawan_Space_Centre" title="Satish Dhawan Space Centre">
+        Sriharikota Range
+       </a>
+       (SHAR) rocket launch centre on 11 September 2016 in the presence of Director of ISRO Satellite Centre (ISAC), Dr. Mylswamy Annadurai, SSS PD Mr. Amareshwar Khened, and other officials. A team of 11 from PES University were present at SHAR for pre-launch activities of PISAT from 11 to 17 September. During the period PISAT was interfaced with an ejection mechanism and integrated with the launch vehicle. Earlier, after stringent performance and quality tests by an expert committee, the nanosatellite was formally handed over to
+       <a class="mw-redirect" href="/wiki/ISRO" title="ISRO">
+        ISRO
+       </a>
+       at a function on the campus attended by top officials from the government and ISRO on 20 April 2016.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Course_content_and_grading">
+        Course content and grading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=6" title="Edit section: Course content and grading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       All the courses which have been conferred autonomous status have their departments set their own course content and grading system. The college follows the
+       <a href="/wiki/Course_credit" title="Course credit">
+        credit-based system
+       </a>
+       of performance evaluation, with proportional weighting of courses based on their importance. The total marks (usually out of 100) form the basis of grades, with a grade value (out of 10) assigned to a range of marks. For each semester, the students are graded by taking a weighted average of all the subject grades with their respective credit points. Each semester's evaluation is done independently with a cumulative grade point average (CGPA) reflecting the overall performance across semesters. Till June 2012, the grading system being followed was
+       <a href="/wiki/Grading_on_a_curve" title="Grading on a curve">
+        relative grading
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       but the college switched to an absolute grading system after consultations with the university.
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Rankings">
+        Rankings
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=7" title="Edit section: Rankings">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="infobox vcard" style="width:22em;width: 22em">
+       <tbody>
+        <tr>
+         <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 125%">
+          <span class="fn">
+           <a href="/wiki/College_and_university_rankings" title="College and university rankings">
+            University and College rankings
+           </a>
+          </span>
+         </th>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background-color: lavender">
+          General – India
+         </th>
+        </tr>
+        <tr>
+         <th scope="row">
+          <a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">
+           NIRF
+          </a>
+          (Overall) (2018)
+          <sup class="reference" id="cite_ref-Rankings_NIRF_O_2018_12-0">
+           <a href="#cite_note-Rankings_NIRF_O_2018-12">
+            [12]
+           </a>
+          </sup>
+         </th>
+         <td>
+          101–150
+         </td>
+        </tr>
+        <tr>
+         <th scope="row">
+          <a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">
+           NIRF
+          </a>
+          (Universities) (2018)
+          <sup class="reference" id="cite_ref-Rankings_NIRF_U_2018_13-0">
+           <a href="#cite_note-Rankings_NIRF_U_2018-13">
+            [13]
+           </a>
+          </sup>
+         </th>
+         <td>
+          99
+         </td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background-color: lavender">
+          Engineering – India
+         </th>
+        </tr>
+        <tr>
+         <th scope="row">
+          <a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">
+           NIRF
+          </a>
+          (2018)
+          <sup class="reference" id="cite_ref-Rankings_NIRF_E_2018_14-0">
+           <a href="#cite_note-Rankings_NIRF_E_2018-14">
+            [14]
+           </a>
+          </sup>
+         </th>
+         <td>
+          87
+         </td>
+        </tr>
+        <tr>
+         <th scope="row">
+          <i>
+           <a class="mw-redirect" href="/wiki/Outlook_India" title="Outlook India">
+            Outlook India
+           </a>
+          </i>
+          (2017)
+          <sup class="reference" id="cite_ref-Rankings_OUTLOOK_E_2017_15-0">
+           <a href="#cite_note-Rankings_OUTLOOK_E_2017-15">
+            [15]
+           </a>
+          </sup>
+         </th>
+         <td>
+          39
+         </td>
+        </tr>
+        <tr>
+         <th scope="row">
+          <i>
+           <a href="/wiki/The_Week_(Indian_magazine)" title="The Week (Indian magazine)">
+            The Week
+           </a>
+          </i>
+          (2017)
+          <sup class="reference" id="cite_ref-Rankings_WEEK_E_2017_16-0">
+           <a href="#cite_note-Rankings_WEEK_E_2017-16">
+            [16]
+           </a>
+          </sup>
+         </th>
+         <td>
+          49
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       The university was ranked 200 among universities in India by the
+       <a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">
+        National Institutional Ranking Framework
+       </a>
+       (NIRF) in 2018,
+       <sup class="reference" id="cite_ref-Rankings_NIRF_U_2018_13-1">
+        <a href="#cite_note-Rankings_NIRF_U_2018-13">
+         [13]
+        </a>
+       </sup>
+       in the 201–250 band overall
+       <sup class="reference" id="cite_ref-Rankings_NIRF_O_2018_12-1">
+        <a href="#cite_note-Rankings_NIRF_O_2018-12">
+         [12]
+        </a>
+       </sup>
+       and 196 in the engineering ranking.
+       <sup class="reference" id="cite_ref-Rankings_NIRF_E_2018_14-1">
+        <a href="#cite_note-Rankings_NIRF_E_2018-14">
+         [14]
+        </a>
+       </sup>
+      </p>
+      <p>
+       PESIT was ranked 41 by
+       <i>
+        <a class="mw-redirect" href="/wiki/Outlook_India" title="Outlook India">
+         Outlook India
+        </a>
+       </i>
+       amongst Top 200 Engineering Colleges of 2018.
+       <sup class="reference" id="cite_ref-Rankings_OUTLOOK_E_2017_15-1">
+        <a href="#cite_note-Rankings_OUTLOOK_E_2017-15">
+         [15]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=8" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20110902023148/http://pesit.pes.edu/about-us" rel="nofollow">
+             "About us"
+            </a>
+            . PESIT, Bengaluru. Archived from
+            <a class="external text" href="http://pesit.pes.edu/about-us" rel="nofollow">
+             the original
+            </a>
+            on 2 September 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              29 September
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+us&amp;rft.pub=PESIT%2C+Bengaluru&amp;rft_id=http%3A%2F%2Fpesit.pes.edu%2Fabout-us&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <style data-mw-deduplicate="TemplateStyles:r951705291">
+            .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+           </style>
+          </span>
+         </li>
+         <li id="cite_note-principal-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-principal_2-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20111028032153/http://pesit.pes.edu/information-science/faculty/balasubramanya-murthy" rel="nofollow">
+             "Balasubramanya Murthy"
+            </a>
+            . PESIT, Bengaluru. Archived from
+            <a class="external text" href="http://pesit.pes.edu/information-science/faculty/balasubramanya-murthy" rel="nofollow">
+             the original
+            </a>
+            on 28 October 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 October
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Balasubramanya+Murthy&amp;rft.pub=PESIT%2C+Bengaluru&amp;rft_id=http%3A%2F%2Fpesit.pes.edu%2Finformation-science%2Ffaculty%2Fbalasubramanya-murthy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-HOSMAC_Foundation-3">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-HOSMAC_Foundation_3-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-HOSMAC_Foundation_3-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20110726154514/http://www.hosmacfoundation.org/pesit/Brochure.pdf" rel="nofollow">
+             "Hosmac Foundation in association with PESIT offers PGDHM"
+            </a>
+            <span class="cs1-format">
+             (PDF)
+            </span>
+            . HOSMAC Foundation. Archived from
+            <a class="external text" href="http://www.hosmacfoundation.org/pesit/Brochure.pdf" rel="nofollow">
+             the original
+            </a>
+            <span class="cs1-format">
+             (PDF)
+            </span>
+            on 26 July 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 October
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hosmac+Foundation+in+association+with+PESIT+offers+PGDHM&amp;rft.pub=HOSMAC+Foundation&amp;rft_id=http%3A%2F%2Fwww.hosmacfoundation.org%2Fpesit%2FBrochure.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://pes.edu/pes-university/about" rel="nofollow">
+             "About PES University"
+            </a>
+            . PES University
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              14 May
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+PES+University&amp;rft.pub=PES+University&amp;rft_id=http%3A%2F%2Fpes.edu%2Fpes-university%2Fabout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="http://www.thisweekBengaluru.com/?p=3863" rel="nofollow">
+             "PESIT students outshine in Sweden-India Nobel Memorial Quiz"
+            </a>
+            .
+            <i>
+             ThisweekBengaluru
+            </i>
+            . 14 September 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 October
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ThisweekBengaluru&amp;rft.atitle=PESIT+students+outshine+in+Sweden-India+Nobel+Memorial+Quiz&amp;rft.date=2011-09-14&amp;rft_id=http%3A%2F%2Fwww.thisweekBengaluru.com%2F%3Fp%3D3863&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+           <sup class="noprint Inline-Template">
+            <span style="white-space: nowrap;">
+             [
+             <i>
+              <a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">
+               <span title=" Dead link since March 2018">
+                permanent dead link
+               </span>
+              </a>
+             </i>
+             ]
+            </span>
+           </sup>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20111101125115/http://pesit.pes.edu/mtech-computer-science" rel="nofollow">
+             "M.Tech Computer Science"
+            </a>
+            . PESIT, Bengaluru. Archived from
+            <a class="external text" href="http://pesit.pes.edu/mtech-computer-science" rel="nofollow">
+             the original
+            </a>
+            on 1 November 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 October
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=M.Tech+Computer+Science&amp;rft.pub=PESIT%2C+Bengaluru&amp;rft_id=http%3A%2F%2Fpesit.pes.edu%2Fmtech-computer-science&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web" id="CITEREFGutka">
+            Gutka, Charmi.
+            <a class="external text" href="https://web.archive.org/web/20140110163422/http://www.dealcurry.com/20110921-Sparsh-Learning-Raises-Angel-Funding-From-Blume-Ventures-And-Tempus-Capital.htm" rel="nofollow">
+             "Sparsh Learning Raises Angel Funding From Blume Ventures And Tempus Capital"
+            </a>
+            . Dealcurry. Archived from
+            <a class="external text" href="http://www.dealcurry.com/20110921-Sparsh-Learning-Raises-Angel-Funding-From-Blume-Ventures-And-Tempus-Capital.htm" rel="nofollow">
+             the original
+            </a>
+            on 10 January 2014
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 September
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sparsh+Learning+Raises+Angel+Funding+From+Blume+Ventures+And+Tempus+Capital&amp;rft.pub=Dealcurry&amp;rft.aulast=Gutka&amp;rft.aufirst=Charmi&amp;rft_id=http%3A%2F%2Fwww.dealcurry.com%2F20110921-Sparsh-Learning-Raises-Angel-Funding-From-Blume-Ventures-And-Tempus-Capital.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://web.archive.org/web/20111120214155/http://pesit.pes.edu/telecommunication/overview" rel="nofollow">
+             "PESIT Telecommunications"
+            </a>
+            . PES Institute of Technology. Archived from
+            <a class="external text" href="http://pesit.pes.edu/telecommunication/overview" rel="nofollow">
+             the original
+            </a>
+            on 20 November 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 September
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PESIT+Telecommunications&amp;rft.pub=PES+Institute+of+Technology&amp;rft_id=http%3A%2F%2Fpesit.pes.edu%2Ftelecommunication%2Foverview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external free" href="http://www.isro.gov.in/Spacecraft/pisat" rel="nofollow">
+            http://www.isro.gov.in/Spacecraft/pisat
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news" id="CITEREFBalakrishna2008">
+            Balakrishna, Shruti (15 December 2008).
+            <a class="external text" href="http://findarticles.com/p/news-articles/times-of-india-the/mi_8012/is_20081215/city-colleges-slowly-switching-grading/ai_n39521531/" rel="nofollow">
+             "City colleges slowly switching to grading system"
+            </a>
+            .
+            <i>
+             Times of India, Bengaluru
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 October
+             </span>
+             2011
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Times+of+India%2C+Bengaluru&amp;rft.atitle=City+colleges+slowly+switching+to+grading+system&amp;rft.date=2008-12-15&amp;rft.aulast=Balakrishna&amp;rft.aufirst=Shruti&amp;rft_id=http%3A%2F%2Ffindarticles.com%2Fp%2Fnews-articles%2Ftimes-of-india-the%2Fmi_8012%2Fis_20081215%2Fcity-colleges-slowly-switching-grading%2Fai_n39521531%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-11">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation book">
+            <i>
+             Student manual
+            </i>
+            . Bengaluru: P.E.S. Institute of Technology. 2012. pp. 4–5.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Student+manual&amp;rft.place=Bengaluru&amp;rft.pages=4-5&amp;rft.pub=P.E.S.+Institute+of+Technology&amp;rft.date=2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-Rankings_NIRF_O_2018-12">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Rankings_NIRF_O_2018_12-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Rankings_NIRF_O_2018_12-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.nirfindia.org/2018/OverallRanking.html" rel="nofollow">
+             "National Institutional Ranking Framework 2018 (Overall)"
+            </a>
+            .
+            <i>
+             <a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">
+              National Institutional Ranking Framework
+             </a>
+            </i>
+            .
+            <a href="/wiki/Ministry_of_Human_Resource_Development" title="Ministry of Human Resource Development">
+             Ministry of Human Resource Development
+            </a>
+            . 2018.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Institutional+Ranking+Framework&amp;rft.atitle=National+Institutional+Ranking+Framework+2018+%28Overall%29&amp;rft.date=2018&amp;rft_id=https%3A%2F%2Fwww.nirfindia.org%2F2018%2FOverallRanking.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-Rankings_NIRF_U_2018-13">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Rankings_NIRF_U_2018_13-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Rankings_NIRF_U_2018_13-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.nirfindia.org/2018/UniversityRanking.html" rel="nofollow">
+             "National Institutional Ranking Framework 2018 (Universities)"
+            </a>
+            .
+            <i>
+             <a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">
+              National Institutional Ranking Framework
+             </a>
+            </i>
+            .
+            <a href="/wiki/Ministry_of_Human_Resource_Development" title="Ministry of Human Resource Development">
+             Ministry of Human Resource Development
+            </a>
+            . 2018.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Institutional+Ranking+Framework&amp;rft.atitle=National+Institutional+Ranking+Framework+2018+%28Universities%29&amp;rft.date=2018&amp;rft_id=https%3A%2F%2Fwww.nirfindia.org%2F2018%2FUniversityRanking.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-Rankings_NIRF_E_2018-14">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Rankings_NIRF_E_2018_14-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Rankings_NIRF_E_2018_14-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.nirfindia.org/2018/EngineeringRanking.html" rel="nofollow">
+             "National Institutional Ranking Framework 2018 (Engineering)"
+            </a>
+            .
+            <i>
+             <a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">
+              National Institutional Ranking Framework
+             </a>
+            </i>
+            .
+            <a href="/wiki/Ministry_of_Human_Resource_Development" title="Ministry of Human Resource Development">
+             Ministry of Human Resource Development
+            </a>
+            . 2018.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Institutional+Ranking+Framework&amp;rft.atitle=National+Institutional+Ranking+Framework+2018+%28Engineering%29&amp;rft.date=2018&amp;rft_id=https%3A%2F%2Fwww.nirfindia.org%2F2018%2FEngineeringRanking.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-Rankings_OUTLOOK_E_2017-15">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-Rankings_OUTLOOK_E_2017_15-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-Rankings_OUTLOOK_E_2017_15-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news">
+            <a class="external text" href="http://www.outlookindia.com/magazine/story/top-100-engineering-colleges-in-2017/298916" rel="nofollow">
+             "Top 100 Engineering Colleges In 2017"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/Outlook_India" title="Outlook India">
+              Outlook India
+             </a>
+            </i>
+            . 5 June 2017
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              13 June
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Outlook+India&amp;rft.atitle=Top+100+Engineering+Colleges+In+2017&amp;rft.date=2017-06-05&amp;rft_id=http%3A%2F%2Fwww.outlookindia.com%2Fmagazine%2Fstory%2Ftop-100-engineering-colleges-in-2017%2F298916&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-Rankings_WEEK_E_2017-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-Rankings_WEEK_E_2017_16-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation news" id="CITEREFSingh2017">
+            Singh, Abhinav (18 June 2017).
+            <a class="external text" href="http://www.theweek.in/theweek/cover/best-colleges-2017-survey.html" rel="nofollow">
+             "The Week - Hansa Research Best Colleges Survey 2017: Top Engineering Colleges - All India"
+            </a>
+            .
+            <i>
+             <a href="/wiki/The_Week_(Indian_magazine)" title="The Week (Indian magazine)">
+              The Week
+             </a>
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              8 September
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Week&amp;rft.atitle=The+Week+-+Hansa+Research+Best+Colleges+Survey+2017%3A+Top+Engineering+Colleges+-+All+India&amp;rft.date=2017-06-18&amp;rft.aulast=Singh&amp;rft.aufirst=Abhinav&amp;rft_id=http%3A%2F%2Fwww.theweek.in%2Ftheweek%2Fcover%2Fbest-colleges-2017-survey.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APES+University">
+           </span>
+           <link href="mw-data:TemplateStyles:r951705291" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=PES_University&amp;action=edit&amp;section=9" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+         </td>
+         <td class="mbox-text plainlist">
+          Wikimedia Commons has media related to
+          <i>
+           <b>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:PES_University" title="commons:Category:PES University">
+             <span style="">
+              PES University
+             </span>
+            </a>
+           </b>
+          </i>
+          .
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="http://www.pes.edu/" rel="nofollow">
+         PES University
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Universities_in_Karnataka,_India" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th class="navbox-title" colspan="2" scope="col">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view">
+              <a href="/wiki/Template:Universities_in_Karnataka" title="Template:Universities in Karnataka">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">
+                v
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-talk">
+              <a href="/wiki/Template_talk:Universities_in_Karnataka" title="Template talk:Universities in Karnataka">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">
+                t
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-edit">
+              <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Universities_in_Karnataka&amp;action=edit">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">
+                e
+               </abbr>
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div id="Universities_in_Karnataka,_India" style="font-size:114%;margin:0 4em">
+            Universities in Karnataka, India
+           </div>
+          </th>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           State universities
+          </th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Bengaluru_Dr._B._R._Ambedkar_School_of_Economics_University" title="Bengaluru Dr. B. R. Ambedkar School of Economics University">
+               Bengaluru Dr. B. R. Ambedkar School of Economics University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Bangalore_University" title="Bangalore University">
+               Bangalore University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Bengaluru_Central_University" title="Bengaluru Central University">
+               Bengaluru Central University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Bengaluru_North_University" title="Bengaluru North University">
+               Bengaluru North University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Davangere_University" title="Davangere University">
+               Davangere University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Gulbarga_University" title="Gulbarga University">
+               Gulbarga University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Kannada_University" title="Kannada University">
+               Kannada University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_State_Law_University" title="Karnataka State Law University">
+               Karnataka State Law University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_State_Open_University" title="Karnataka State Open University">
+               Karnataka State Open University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnatak_University" title="Karnatak University">
+               Karnatak University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_Veterinary,_Animal_and_Fisheries_Sciences_University" title="Karnataka Veterinary, Animal and Fisheries Sciences University">
+               Karnataka Veterinary, Animal and Fisheries Sciences University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_Folklore_University" title="Karnataka Folklore University">
+               Karnataka Folklore University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_Samskrit_University" title="Karnataka Samskrit University">
+               Karnataka Samskrit University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_State_Rural_Development_and_Panchayat_Raj_University" title="Karnataka State Rural Development and Panchayat Raj University">
+               Karnataka State Rural Development and Panchayat Raj University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_State_Women%27s_University" title="Karnataka State Women's University">
+               Karnataka State Women's University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Karnataka_State_Dr._Gangubhai_Hangal_Music_and_Performing_Arts_University" title="Karnataka State Dr. Gangubhai Hangal Music and Performing Arts University">
+               Karnataka State Dr. Gangubhai Hangal Music and Performing Arts University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Kuvempu_University" title="Kuvempu University">
+               Kuvempu University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Mandya_University" title="Mandya University">
+               Mandya University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Mangalore_University" title="Mangalore University">
+               Mangalore University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Rajiv_Gandhi_University_of_Health_Sciences" title="Rajiv Gandhi University of Health Sciences">
+               Rajiv Gandhi University of Health Sciences
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Rani_Channamma_University,_Belagavi" title="Rani Channamma University, Belagavi">
+               Rani Channamma University, Belagavi
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Tumkur_University" title="Tumkur University">
+               Tumkur University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/University_of_Agricultural_Sciences,_Bangalore" title="University of Agricultural Sciences, Bangalore">
+               University of Agricultural Sciences, Bangalore
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/University_of_Agricultural_Sciences,_Dharwad" title="University of Agricultural Sciences, Dharwad">
+               University of Agricultural Sciences, Dharwad
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/University_of_Agricultural_Sciences,_Raichur" title="University of Agricultural Sciences, Raichur">
+               University of Agricultural Sciences, Raichur
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/University_of_Horticultural_Sciences,_Bagalkot" title="University of Horticultural Sciences, Bagalkot">
+               University of Horticultural Sciences, Bagalkot
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/University_of_Mysore" title="University of Mysore">
+               University of Mysore
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Visvesvaraya_Technological_University" title="Visvesvaraya Technological University">
+               Visvesvaraya Technological University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Vijayanagara_Sri_Krishnadevaraya_University" title="Vijayanagara Sri Krishnadevaraya University">
+               Vijayanagara Sri Krishnadevaraya University
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Central universities
+          </th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Central_University_of_Karnataka" title="Central University of Karnataka">
+               Central University of Karnataka
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Indian_Institute_of_Technology_Dharwad" title="Indian Institute of Technology Dharwad">
+               Indian Institute of Technology Dharwad
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Private universities
+          </th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Adichunchanagiri_University" title="Adichunchanagiri University">
+               Adichunchanagiri University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Alliance_University" title="Alliance University">
+               Alliance University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Azim_Premji_University" title="Azim Premji University">
+               Azim Premji University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/CMR_University" title="CMR University">
+               CMR University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Dayananda_Sagar_University" title="Dayananda Sagar University">
+               Dayananda Sagar University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Garden_City_University" title="Garden City University">
+               Garden City University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Institute_of_Trans-Disciplinary_Health_Sciences_and_Technology" title="Institute of Trans-Disciplinary Health Sciences and Technology">
+               Institute of Trans-Disciplinary Health Sciences and Technology
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/JSS_Science_and_Technology_University" title="JSS Science and Technology University">
+               JSS Science and Technology University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Khaja_Bandanawaz_University" title="Khaja Bandanawaz University">
+               Khaja Bandanawaz University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/KLE_Technological_University" title="KLE Technological University">
+               KLE Technological University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/M._S._Ramaiah_University_of_Applied_Sciences" title="M. S. Ramaiah University of Applied Sciences">
+               M. S. Ramaiah University of Applied Sciences
+              </a>
+             </li>
+             <li>
+              <a class="mw-selflink selflink">
+               PES University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Presidency_University,_Bangalore" title="Presidency University, Bangalore">
+               Presidency University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Rai_Technology_University" title="Rai Technology University">
+               Rai Technology University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/REVA_University" title="REVA University">
+               REVA University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Sharnbasva_University" title="Sharnbasva University">
+               Sharnbasva University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Srinivas_University" title="Srinivas University">
+               Srinivas University
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Deemed  universities
+          </th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Christ_University" title="Christ University">
+               Christ University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Jain_University" title="Jain University">
+               Jain University
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/JSS_Academy_of_Higher_Education_%26_Research" title="JSS Academy of Higher Education &amp; Research">
+               JSS Academy of Higher Education &amp; Research
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Manipal_Academy_of_Higher_Education" title="Manipal Academy of Higher Education">
+               Manipal Academy of Higher Education
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/NITTE" title="NITTE">
+               NITTE
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Sri_Siddhartha_Academy_of_Higher_Education" title="Sri Siddhartha Academy of Higher Education">
+               Sri Siddhartha Academy of Higher Education
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Yenepoya_University" title="Yenepoya University">
+               Yenepoya University
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20200611134921
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.460 seconds
+Real time usage: 0.597 seconds
+Preprocessor visited node count: 2782/1000000
+Post‐expand include size: 61829/2097152 bytes
+Template argument size: 3661/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 59645/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.232/10.000 seconds
+Lua memory usage: 5.81 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  539.206      1 -total
+ 45.90%  247.481      1 Template:Reflist
+ 28.18%  151.970      2 Template:Infobox
+ 25.31%  136.453     10 Template:Cite_web
+ 24.37%  131.416      1 Template:Infobox_university
+  8.48%   45.725      1 Template:Commons_category
+  8.25%   44.481      1 Template:Infobox_India_university_ranking
+  8.06%   43.475      1 Template:Dead_link
+  7.67%   41.366      1 Template:Sister_project
+  7.40%   39.901      1 Template:Fix
+-->
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:42756056-0!canonical and timestamp 20200611134921 and revision id 958859425
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PES_University&amp;oldid=958859425">
+      https://en.wikipedia.org/w/index.php?title=PES_University&amp;oldid=958859425
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_India_Council_for_Technical_Education" title="Category:All India Council for Technical Education">
+         All India Council for Technical Education
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Affiliates_of_Visvesvaraya_Technological_University" title="Category:Affiliates of Visvesvaraya Technological University">
+         Affiliates of Visvesvaraya Technological University
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Engineering_colleges_in_Bangalore" title="Category:Engineering colleges in Bangalore">
+         Engineering colleges in Bangalore
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Engineering_universities_and_colleges_in_India" title="Category:Engineering universities and colleges in India">
+         Engineering universities and colleges in India
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:1972_establishments_in_India" title="Category:1972 establishments in India">
+         1972 establishments in India
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Educational_institutions_established_in_1972" title="Category:Educational institutions established in 1972">
+         Educational institutions established in 1972
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">
+         All articles with dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_dead_external_links_from_March_2018" title="Category:Articles with dead external links from March 2018">
+         Articles with dead external links from March 2018
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">
+         Articles with permanently dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_January_2019" title="Category:Use dmy dates from January 2019">
+         Use dmy dates from January 2019
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_Indian_English_from_January_2019" title="Category:Use Indian English from January 2019">
+         Use Indian English from January 2019
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_Wikipedia_articles_written_in_Indian_English" title="Category:All Wikipedia articles written in Indian English">
+         All Wikipedia articles written in Indian English
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_outdated_Infobox_India_university_ranking" title="Category:Pages using outdated Infobox India university ranking">
+         Pages using outdated Infobox India university ranking
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">
+         Commons category link is on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="vector-menu" id="p-personal">
+     <h3 id="p-personal-label">
+      <span>
+       Personal tools
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">
+        Not logged in
+       </li>
+       <li id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+         Talk
+        </a>
+       </li>
+       <li id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+         Contributions
+        </a>
+       </li>
+       <li id="pt-createaccount">
+        <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=PES+University" title="You are encouraged to create an account and log in; however, it is not mandatory">
+         Create account
+        </a>
+       </li>
+       <li id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=PES+University" title="You're encouraged to log in; however, it's not mandatory. [o]">
+         Log in
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vector-menu vector-menu-tabs vectorTabs" id="p-namespaces">
+      <h3 id="p-namespaces-label">
+       <span>
+        Namespaces
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="vector-menu-content-list">
+        <li class="selected" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/PES_University" title="View the content page [c]">
+          Article
+         </a>
+        </li>
+        <li id="ca-talk">
+         <a accesskey="t" href="/wiki/Talk:PES_University" rel="discussion" title="Discuss improvements to the content page [t]">
+          Talk
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" id="p-variants">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox vector-menu-checkbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="menu vector-menu-content-list">
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vector-menu vector-menu-tabs vectorTabs" id="p-views">
+      <h3 id="p-views-label">
+       <span>
+        Views
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="vector-menu-content-list">
+        <li class="collapsible selected" id="ca-view">
+         <a href="/wiki/PES_University">
+          Read
+         </a>
+        </li>
+        <li class="collapsible" id="ca-edit">
+         <a accesskey="e" href="/w/index.php?title=PES_University&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </li>
+        <li class="collapsible" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=PES_University&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" id="p-cactions">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox vector-menu-checkbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="menu vector-menu-content-list">
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="vector-menu vector-menu-portal portal portal-first" id="p-navigation">
+     <h3 id="p-navigation-label">
+      <span>
+       Navigation
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Visit a randomly selected article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact us
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">
+         Donate
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="vector-menu vector-menu-portal portal" id="p-interaction">
+     <h3 id="p-interaction-label">
+      <span>
+       Contribute
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-upload">
+        <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">
+         Upload file
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="vector-menu vector-menu-portal portal" id="p-tb">
+     <h3 id="p-tb-label">
+      <span>
+       Tools
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/PES_University" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/PES_University" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=PES_University&amp;oldid=958859425" title="Permanent link to this revision of this page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=PES_University&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=PES_University&amp;id=958859425&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17082766" title="Structured data on this page hosted by Wikidata [g]">
+         Wikidata item
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="vector-menu vector-menu-portal portal" id="p-lang">
+     <h3 id="p-lang-label">
+      <span>
+       Languages
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-kn">
+        <a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%BF%E0%B2%87%E0%B2%8E%E0%B2%B8%E0%B3%8D_%E0%B2%B5%E0%B2%BF%E0%B2%B6%E0%B3%8D%E0%B2%B5%E0%B2%B5%E0%B2%BF%E0%B2%A6%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B2%E0%B2%AF" hreflang="kn" lang="kn" title="ಪಿಇಎಸ್ ವಿಶ್ವವಿದ್ಯಾಲಯ – Kannada">
+         ಕನ್ನಡ
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17082766#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects">
+     <h3 id="p-wikibase-otherprojects-label">
+      <span>
+       In other projects
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:PES_University" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="vector-menu vector-menu-portal portal" id="p-coll-print_export">
+     <h3 id="p-coll-print_export-label">
+      <span>
+       Print/export
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=PES+University&amp;action=show-download-screen" title="Download this page as a PDF file">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=PES_University&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 26 May 2020, at 02:00
+     <span class="anonymous-show">
+      (UTC)
+     </span>
+     .
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/en.wikipedia.org">
+      Statistics
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=PES_University&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.597","ppvisitednodes":{"value":2782,"limit":1000000},"postexpandincludesize":{"value":61829,"limit":2097152},"templateargumentsize":{"value":3661,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":59645,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  539.206      1 -total"," 45.90%  247.481      1 Template:Reflist"," 28.18%  151.970      2 Template:Infobox"," 25.31%  136.453     10 Template:Cite_web"," 24.37%  131.416      1 Template:Infobox_university","  8.48%   45.725      1 Template:Commons_category","  8.25%   44.481      1 Template:Infobox_India_university_ranking","  8.06%   43.475      1 Template:Dead_link","  7.67%   41.366      1 Template:Sister_project","  7.40%   39.901      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.232","limit":"10.000"},"limitreport-memusage":{"value":6092024,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20200611134921","ttl":2592000,"transientcontent":false}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"PES University","url":"https:\/\/en.wikipedia.org\/wiki\/PES_University","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17082766","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17082766","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-06T04:55:41Z","dateModified":"2020-05-26T02:00:23Z","headline":"University in Bengaluru, India"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":735,"wgHostname":"mw1326"});});
+  </script>
+ </body>
+</html>
+
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Academic_profile"><span class="tocnumber">2</span> <span class="toctext">Academic profile</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Admission_criteria"><span class="tocnumber">2.1</span> <span class="toctext">Admission criteria</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Faculty_and_research"><span class="tocnumber">2.2</span> <span class="toctext">Faculty and research</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#PISAT"><span class="tocnumber">2.3</span> <span class="toctext">PISAT</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Course_content_and_grading"><span class="tocnumber">2.4</span> <span class="toctext">Course content and grading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Rankings"><span class="tocnumber">3</span> <span class="toctext">Rankings</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
