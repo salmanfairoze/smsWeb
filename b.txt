@@ -1,6 +1,0 @@
-
-Tamil Nadu
-confirmed 38,716
-active 17,662
-recovered 20,705
-dead 349
