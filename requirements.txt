@@ -10,3 +10,5 @@ unidecode
 future
 selenium
 fake_useragent
+lxml
+webdriver_manager

@@ -27,5 +27,5 @@ for row in soup.findAll('div',attrs={'class':'row'}):
 			print("dead",a[3])
 				
 	
-
-
+driver.quit()
+time.sleep(2)
