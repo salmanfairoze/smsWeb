@@ -13,12 +13,15 @@ soup = bs(page,'lxml')
 
 row=soup.findAll('div', attrs={'class':'row'})
 
+# state = "Mizoram"
+# district = "Aizawl"
+
 for i in range(1,len(row)):
 	name=row[i].find('div', attrs={'class':'state-name'})
-	if("Mizoram"==name.text):
+	if(state == name.text):
 		print(name.text)
 		j=i
-		break;
+		break
 
 a=driver.find_elements_by_class_name("row")
 time.sleep(3)
@@ -31,7 +34,7 @@ tot=row[j].findAll('div', attrs={'class':'total'})
 print("confirmed:" ,tot[0].text,"active: ",tot[1].text,"Recovered: ",tot[2].text,"Dead: ",tot[3].text)
 row=soup.findAll('div', attrs={'class':'row district'})
 for k in row:
-	if(k.find('div', attrs={'class':'state-name'}).text=='Aizawl'):
+	if(k.find('div', attrs={'class':'state-name'}).text==district):
 		print(k.find('div', attrs={'class':'state-name'}).text)
 		tot=k.findAll('div', attrs={'class':'total'})
 		print("confirmed:",tot[0].text,"active: ",tot[1].text,"Recovered: ",tot[2].text,"Dead: ",tot[3].text)
