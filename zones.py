@@ -80,30 +80,26 @@ def calculate_cases(state, district):
     else:
         print("It is not a District")
 
+def get_zone(query):
+    url = 'https://www.google.com/search?client=ubuntu&channel=fs&q={}&ie=utf-8&oe=utf-8'.format(query)
+    headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}  
+    req = Request(url, headers = headers)
+    page =urlopen(req)
+    # page = urllib2.urlopen(url)
+    html_content = page.read().decode('utf-8')
 
+    soup = BeautifulSoup(html_content, 'lxml')
+    div_tag = soup.find("div", attrs={"class":'SPZz6b'})
+    span_tag = div_tag.findAll("span")
+    temp_state = span_tag[1].contents[0].split(" ")[2:]
+
+    state = " ".join(temp_state)
+    district = span_tag[0].contents[0]
+    print(state, district)
+    calculate_cases(state, district)
+
+
+# Input
 query = "ramanagara"
-url = 'https://www.google.com/search?client=ubuntu&channel=fs&q={}&ie=utf-8&oe=utf-8'.format(query)
-headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}  
-req = Request(url, headers = headers)
-page =urlopen(req)
-# page = urllib2.urlopen(url)
-html_content = page.read().decode('utf-8')
 
-soup = BeautifulSoup(html_content, 'lxml')
-div_tag = soup.find("div", attrs={"class":'SPZz6b'})
-span_tag = div_tag.findAll("span")
-temp_state = span_tag[1].contents[0].split(" ")[2:]
-
-state = " ".join(temp_state)
-district = span_tag[0].contents[0]
-print(state, district)
-calculate_cases(state, district)
-
-# h = html2text.HTML2Text()
-# h.ignore_images = True
-# h.ignore_emphasis = True
-# h.escape_all = True
-# rendered_content = h.handle(html_content).encode('utf-8')
-# file = open('file_text.txt', 'w')
-# file.write(rendered_content.decode('utf-8'))
-# file.close()
+get_zone(query)
