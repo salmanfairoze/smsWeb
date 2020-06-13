@@ -2,7 +2,9 @@ import urllib.request as urllib2
 from urllib.request import urlopen
 from urllib.request import Request
 import html2text
-query = "Worldssmallestcountry"
+from bs4 import BeautifulSoup
+
+query = "howtofly"
 url = 'https://www.google.com/search?client=ubuntu&channel=fs&q={}&ie=utf-8&oe=utf-8'.format(query)
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}  
 req = Request(url, headers = headers)

@@ -27,7 +27,7 @@ def googleSearch(query,phno):
 		print(next(res.results).text)
 		if answer != "":
 			return answer
-			# requests.get("http://192.168.1.104:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+answer)
+			# requests.get("http://192.168.1.107:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+answer)
 	except Exception as e:
 		print("Exception occured")
 		print(e)
@@ -70,7 +70,7 @@ def receive_sms():
 	print("The Message is: ",msg,"\n")
 	msg = msg.split(":")[1]
 	res = googleSearch(msg,phno)
-	requests.get("http://192.168.1.104:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+res)
+	requests.get("http://192.168.1.107:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+res)
 	return '',200
 
 
