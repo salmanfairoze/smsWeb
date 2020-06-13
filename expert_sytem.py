@@ -99,14 +99,14 @@ def train_bots():
     trainer = ListTrainer(chatbot1)
     trainer.train(training_data)
 
-    return "200"
+    return "",200
 
 
 @app.route('/diagnosis', methods = ["POST"])
 def diagbot():
 
     user_req = request.get_json()
-    return chatbot2.get_response(user_req['user_response'])
+    return str(chatbot2.get_response(user_req['user_response']))
 
 @app.route('/chat', methods = ["POST"])
 def chatbot():
@@ -116,4 +116,4 @@ def chatbot():
 
 
 if(__name__ == '__main__'):
-    app.run(debug = True, port = 5050)
+    app.run(host= '0.0.0.0',debug = True, port = 5050)
