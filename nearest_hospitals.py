@@ -47,7 +47,7 @@ def location(query):
 				##print("httttt ccccc")
 				a[i].click()
 				##print("httttt")
-				time.sleep(5)
+				time.sleep(6)
 				##print("h")
 				h=driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[1]/div/button")
 				if(h is None):
@@ -87,7 +87,7 @@ def location(query):
 						ans=ans+l.text+"\n"
 					##print("h55");	
 					ans=ans+"\n\n"
-					time.sleep(1)
+					time.sleep(2)
 					flag4=0
 					##print("pranav");
 					flag3=1
@@ -103,11 +103,12 @@ def location(query):
 				except:
 					##print("except in 3")
 					flag3=0
+	driver.quit()
 	return ans	
 #input is location you want to find . It returns a string		
-'''	
-q="Hospitals in banashankari"
 
-ans=location(q)
-print(ans)
-'''
+# q="Hospitals in gubbalala bangalore"
+
+# ans=location(q)
+# print(ans)
+
