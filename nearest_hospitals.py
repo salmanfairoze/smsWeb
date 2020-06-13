@@ -7,7 +7,7 @@ import time
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get("http://www.google.com/maps/")
 time.sleep(6)
-driver.find_element_by_name("q").send_keys("Hospitals in banashankari")
+driver.find_element_by_name("q").send_keys("Hospitals in Bidar")
 driver.find_element_by_class_name("searchbox-searchbutton").click()
 time.sleep(5)
 
@@ -40,4 +40,4 @@ for i in range(0,3):
 	driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/button").click()
 	time.sleep(3)
 	
-
+driver.quit()
