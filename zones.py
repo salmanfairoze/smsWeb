@@ -111,8 +111,8 @@ def calculate_cases(query):
 					return res
 			except:
 				flag2=0
-
+'''
 district = "Rupnagar"
 result = calculate_cases(district)
 print(result)
-
+'''

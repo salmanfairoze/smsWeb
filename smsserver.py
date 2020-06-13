@@ -7,6 +7,7 @@ import requests
 from Google.google import google
 import wolframalpha
 from nearest_hospitals import *
+from zones import *
 
 # mysql = MySQL()
 app = Flask(__name__)
@@ -84,25 +85,25 @@ def receive_sms():
 		welcome_4 = "4. 'query:stats:district/state name' to get its COVID-19 Stats\n"
 		welcome_5 = "5. 'query:chat:your question' to get other medical COVID-19 related advice\n"
 		resp = "Reply with:\n"+welcome_1+welcome_2+welcome_3+welcome_4+welcome_5
-		# requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp)
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp)
 		print(resp)
 
 	# Diagnosis
 	elif "begin diagnosis" in msg[1]:
 		resp = requests.post("http://192.168.1.104:5050/diagnosis",json={"user_response":"begin diagnosis"})
-		# requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
 		print(resp.text)
 	
 	# Answers to Diagnosis
 	elif "answer" in msg[1]:
 		resp = requests.post("http://192.168.1.104:5050/diagnosis",json={"user_response":msg[2]})
-		# requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
 		print(resp.text)
 
 	# Chat with bot	
 	elif "chat" in msg[1]:
 		resp = requests.post("http://192.168.1.104:5050/chat",json={"user_response":msg[2]})
-		# requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
 		print(resp.text)
 
 	# Nearest Hospitals
@@ -110,27 +111,16 @@ def receive_sms():
 		areaname = msg[2]
 		query_string = "Hospitals Near " + areaname
 		resp = location(query_string)
-		# requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp)
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp)
 		print(resp)
 
 	# Zone Query # query:zone:district name
 	elif "zone" in msg[1] or "stats" in msg[1]:
 		dname = msg[2]
-		# res = call()
-		"""
-		zone type (red etc)
-		district stats:
-			-
-			-
-			-
-		percentage of active cases in your district <%>
-		state stats:
-			-
-			-
-			-
-		"""
-		return res
-
+		resp = calculate_cases(dname)
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp)
+		print(resp)
+		
 	# Corona Stats
 	# elif "stats" in msg[1]: # query:stats:state:name query:stats:district:name
 	# 	name = msg[2]
