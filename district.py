@@ -15,7 +15,7 @@ row=soup.findAll('div', attrs={'class':'row'})
 
 for i in range(1,len(row)):
 	name=row[i].find('div', attrs={'class':'state-name'})
-	if("Mizoram"==name.text):
+	if("Tamil Nadu"==name.text):
 		print(name.text)
 		j=i
 		break;
@@ -31,7 +31,7 @@ tot=row[j].findAll('div', attrs={'class':'total'})
 print("confirmed:" ,tot[0].text,"active: ",tot[1].text,"Recovered: ",tot[2].text,"Dead: ",tot[3].text)
 row=soup.findAll('div', attrs={'class':'row district'})
 for k in row:
-	if(k.find('div', attrs={'class':'state-name'}).text=='Aizawl'):
+	if(k.find('div', attrs={'class':'state-name'}).text=='Vellore'):
 		print(k.find('div', attrs={'class':'state-name'}).text)
 		tot=k.findAll('div', attrs={'class':'total'})
 		print("confirmed:",tot[0].text,"active: ",tot[1].text,"Recovered: ",tot[2].text,"Dead: ",tot[3].text)
