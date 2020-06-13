@@ -107,8 +107,9 @@ def location(query):
 	return ans	
 #input is location you want to find . It returns a string		
 
-# q="Hospitals in gubbalala bangalore"
+'''
+q="Hospitals in banashankari"
 
-# ans=location(q)
-# print(ans)
-
+ans=location(q)
+print(ans)
+'''
