@@ -1,0 +1,7 @@
+hi
+query:begin diagnosis
+query:zone:chennai
+query:answer:yes yes no
+query:hospitals:anna nagar
+query:chat:what is coronavirus?
+query:chat:What are the symptoms of someone infected with a coronavirus?
