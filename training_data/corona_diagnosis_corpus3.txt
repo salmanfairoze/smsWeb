@@ -1,0 +1,64 @@
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+True
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+True
+Did you come into contact with a possible covid-19 carrier ?
+True
+Reach the nearest covid-19 testing center immediately, you have a high risk of being infected
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+True
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+True
+Did you come into contact with a possible covid-19 carrier ?
+False
+Reach the nearest covid-19 testing center immediately, you have a high risk of being infected
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+True
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+False
+Did you come into contact with a possible covid-19 carrier ?
+True
+Reach the nearest covid-19 testing center immediately, you have a high risk of being infected
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+True
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+False
+Did you come into contact with a possible covid-19 carrier ?
+False
+seek medical attention and self quarantine is strictly advised.
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+False
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+True
+Did you come into contact with a possible covid-19 carrier ?
+True
+Self quarantine is strictly advised
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+False
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+True
+Did you come into contact with a possible covid-19 carrier ?
+False
+Self quarantine is strictly advised
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+False
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+False
+Did you come into contact with a possible covid-19 carrier ?
+True
+Self quarantine is strictly advised
+Do i have covid-19?
+Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?
+False
+Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?
+False
+Did you come into contact with a possible covid-19 carrier ?
+False
+You have low risk of being infected, stay home , stay safe !
