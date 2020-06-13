@@ -12,3 +12,5 @@ selenium
 fake_useragent
 lxml
 webdriver_manager
+git+https://github.com/gunthercox/chatterbot-corpus.git#egg=chatterbot-corpus
+chatterbot

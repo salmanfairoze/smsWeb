@@ -14,13 +14,15 @@ class DiagBot:
         self.str1 = "Do you have fever along with symptoms of acute respiratory illness ? like cough or shortness of breath?"
         self.str2 = "Did you travel to any area/country or territory reporting local transmission of covid-19 disease within the past 17 days ?"
         self.str3 = "Did you come into contact with a possible covid-19 carrier ?"
-        self.str4 = self.str1 + '\n' + self.str2 + '\n' + self.str3
+        self.str4 = "Reply with query:answers:yes/no yes/no yes/no"
+        self.str5 = "To know if you have travelled to a COVID-19 Hotspot (Red Zone) reply with 'query:zone:district name'" 
+        self.str6 = self.str1+'\n'+self.str2+'\n'+self.str3+'\n'+self.str4 +'\n'+self.str5+'\n'
 
     def get_response(self, text):
 
         if(text == 'begin diagnosis'):
 
-            return self.str4
+            return self.str6
 
         else:
 
@@ -32,19 +34,19 @@ class DiagBot:
 
             if(response[0] == 'yes' and response[1] == 'yes' and response[2] == 'yes'):
 
-                return "Reach the nearest covid-19 testing center immediately, you have a high risk of being infected"
+                return "Reach the nearest COVID-19 testing center immediately, you have a high risk of being infected\nTo know Nearest Hospitals reply with query:hospitals:area_name"
 
             elif(response[0] == 'yes' and response[1] == 'yes' and response[2] == 'no'):
 
-                return "Reach the nearest covid-19 testing center immediately, you have a high risk of being infected"
+                return "Reach the nearest COVID-19 testing center immediately, you have a high risk of being infected\nTo know Nearest Hospitals reply with query:hospitals:area_name"
 
             elif(response[0] == 'yes' and response[1] == 'no' and response[2] == 'yes'):
 
-                return "Reach the nearest covid-19 testing center immediately, you have a high risk of being infected"
+                return "Reach the nearest COVID-19 testing center immediately, you have a high risk of being infected\nTo know Nearest Hospitals reply with query:hospitals:area_name"
 
             elif(response[0] == 'yes' and response[1] == 'no' and response[2] == 'no'):
 
-                return "seek medical attention and self quarantine is strictly advised."
+                return "Seek medical attention and self quarantine is strictly advised.\nTo know Nearest Hospitals reply with query:hospitals:area_name"
 
             elif(response[0] == 'no' and response[1] == 'yes' and response[2] == 'yes'):
 
@@ -60,7 +62,7 @@ class DiagBot:
 
             elif(response[0] == 'no' and response[1] == 'no' and response[2] == 'no'):
 
-                return "You have low risk of being infected, stay home , stay safe !"
+                return "You are less likely to be infected with COVID-19. However, take precautions:\nMaintain Social Distancing\nAvoid Crowd Gathering\nAvoid Travelling to COVID Hotspots\nWash Your Hands Frequently\nStay Home, Stay Safe!!"
 
 # Creating ChatBot Instance
 chatbot1 = ChatBot(
@@ -99,14 +101,14 @@ def train_bots():
     trainer = ListTrainer(chatbot1)
     trainer.train(training_data)
 
-    return "200"
+    return "",200
 
 
 @app.route('/diagnosis', methods = ["POST"])
 def diagbot():
 
     user_req = request.get_json()
-    return chatbot2.get_response(user_req['user_response'])
+    return str(chatbot2.get_response(user_req['user_response']))
 
 @app.route('/chat', methods = ["POST"])
 def chatbot():
@@ -116,4 +118,4 @@ def chatbot():
 
 
 if(__name__ == '__main__'):
-    app.run(debug = True, port = 5050)
+    app.run(host= '0.0.0.0',debug = True, port = 5050)

@@ -7,17 +7,17 @@ import requests
 from Google.google import google
 import wolframalpha
 
-mysql = MySQL()
+# mysql = MySQL()
 app = Flask(__name__)
 
-app.config['MYSQL_DATABASE_HOST'] = 'localhost'
-app.config['MYSQL_DATABASE_USER'] = 'app'
-app.config['MYSQL_DATABASE_PASSWORD'] = 'password'
-app.config['MYSQL_DATABASE_DB'] = 'smsweb'
-app.config['MYSQL_DATABASE_SOCKET'] = None
-mysql.init_app(app)
-conn = mysql.connect()
-cur = conn.cursor()
+# app.config['MYSQL_DATABASE_HOST'] = 'localhost'
+# app.config['MYSQL_DATABASE_USER'] = 'app'
+# app.config['MYSQL_DATABASE_PASSWORD'] = 'password'
+# app.config['MYSQL_DATABASE_DB'] = 'smsweb'
+# app.config['MYSQL_DATABASE_SOCKET'] = None
+# mysql.init_app(app)
+# conn = mysql.connect()
+# cur = conn.cursor()
 avoid_rep = [0]
 def googleSearch(query,phno):
 	client = wolframalpha.Client("E53W7Y-3XKP3G7GP8")
@@ -63,14 +63,67 @@ def receive_sms():
 	if avoid_rep[0]%2 == 0:
 		return 'Repeated Query',400
 	phno = flask.request.args.get("phoneNumber")[3:]
-	msg = flask.request.args.get("message")
-	if "query" not in msg:
+	m_msg = flask.request.args.get("message")
+	if "query" not in m_msg:
 		return '',400
 	print("\nMessage received from: ",phno)
-	print("The Message is: ",msg,"\n")
-	msg = msg.split(":")[1]
-	res = googleSearch(msg,phno)
-	requests.get("http://192.168.1.107:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+res)
+	print("The Message is: ",m_msg,"\n")
+	msg = m_msg.split(":") # query:begin diagnosis
+	# res = googleSearch(msg,phno)
+
+	# Welcome
+	if "hi" in msg[1]:
+		welcome_1 = "1. 'query:begin diagnosis' to take a COVID-19 Diagnosis Test\n"
+		welcome_2 = "2. 'query:hospitals:Your Area Name' to find hospitals in your area\n"
+		welcome_3 = "3. 'query:zones:district name' to get the zone information of the district\n"
+		welcome_4 = "4. 'query:stats:district/state name' to get its COVID-19 Stats\n"
+		welcome_5 = "5. 'query:chat:your question' to get other medical COVID-19 related advice\n"
+		welcome_6 = "Reply with:\n"+welcome_1+welcome_2+welcome_3+welcome_4+welcome_5
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+welcome_6)
+
+	# Diagnosis
+	if "begin diagnosis" in msg[1]:
+		resp = requests.post("http://192.168.1.104:5050/diagnosis",json={"user_response":"begin diagnosis"})
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
+	
+	# Answers to Diagnosis
+	elif "answer" in msg[1]:
+		resp = requests.post("http://192.168.1.104:5050/diagnosis",json={"user_response":msg[2]})
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
+
+	# Chat with bot	
+	elif "chat" in msg[1]:
+		resp = requests.post("http://192.168.1.104:5050/chat",json={"user_response":msg[2]})
+		requests.get("http://192.168.1.102:8090/SendSMS?username=salman&password=salman&phone="+phno+"&message="+resp.text)
+
+	# Nearest Hospitals
+	elif "hospitals" in msg[1]: # query:hospitals:area name
+		areaname = msg[2]
+
+	# Zone Query # query:zone:district name
+	elif "zone" in msg[1] or "stats" in msg[1]:
+		dname = msg[2]
+		# res = call()
+		"""
+		zone type (red etc)
+		district stats:
+			-
+			-
+			-
+		percentage of active cases in your district <%>
+		state stats:
+			-
+			-
+			-
+		"""
+		return res
+
+	# Corona Stats
+	# elif "stats" in msg[1]: # query:stats:state:name query:stats:district:name
+	# 	name = msg[2]
+
+	else:
+		pass
 	return '',200
 
 
